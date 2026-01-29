@@ -209,3 +209,111 @@ This project demonstrates that **responsible AI system design** in regulated dom
 
 The pipeline intentionally favors these properties over opaque automation - Not followed Black box concepts
 
+## Project Structure
+new-p-voice-ai-v3/
+│
+├── README.md
+├── RUN_ALL.txt
+├── pyproject.toml
+├── uv.lock
+├── .python-version
+├── .gitignore
+│
+├── Basic_Installation_Guidelines/
+│   └── Installations_and_dependencies.txt
+│
+├── Data_Base/
+│   ├── Raw_Audios/
+│   │   ├── 1.m4a
+│   │   ├── 2.m4a
+│   │   ├── ...
+│   │   └── 62.mp3
+│   │
+│   ├── _ground_truth.xlsx
+│   └── _master_sheet.xlsx
+│
+├── execution_controller_agent.py
+├── python_main.py
+├── runtime_resources.py
+├── agent_memory.py
+├── agent_reasoner.py
+├── agent_state.py
+├── agent_transitions.py
+│
+├── data_pipeline/
+│   ├── __init__.py
+│
+│   ├── audio_quality_matrix.py
+│   ├── plot_lufs_quality_corridor.py
+│   ├── run_audio_quality_matrix.py
+│
+│   ├── phase_A_audio_preprocessing.py
+│   ├── run_phase_A.py
+│
+│   ├── phase_B_transcription.py
+│   ├── run_phase_B.py
+│
+│   ├── configs/
+│   │   └── audio_preprocess_config.yaml
+│
+│   ├── utils/
+│   │   └── audio_utils.py
+│
+│   ├── phase_C_structured_boundary_extraction/
+│   │   ├── __init__.py
+│   │   ├── alias_registry.py
+│   │   ├── boundary_rules.py
+│   │   ├── extractor.py
+│   │   ├── snapshot_loader.py
+│   │   └── run_phase_C.py
+│
+│   ├── phase_D_fuzzy_canonical_mapping/
+│   │   ├── __init__.py
+│   │   ├── fuzzy_matcher.py
+│   │   ├── mapper.py
+│   │   ├── master_loader.py
+│   │   ├── merge_outputs.py
+│   │   ├── text_normalizer.py
+│   │   └── run_phase_D.py
+│
+│   ├── phase_E_evaluation_audit/
+│   │   ├── __init__.py
+│   │   ├── audit.py
+│   │   ├── load_inputs.py
+│   │   ├── metrics.py
+│   │   └── run_phase_E.py
+│
+│   └── artifacts/
+│       ├── quality_matrix/
+│       │   ├── integrated_vs_momentary_lufs_corridor.png
+│       │   └── quality_metrics_report_v3.csv
+│       │
+│       ├── audio_processed/
+│       │   ├── 1.wav
+│       │   ├── 2.wav
+│       │   └── ...
+│       │
+│       ├── transcripts_raw/
+│       │   ├── transcription_1.csv
+│       │   └── ...
+│       │
+│       ├── structured_boundary_extraction/
+│       │   ├── phase_C_structured_boundary_consolidated.csv
+│       │   └── transcription_*_structured.json
+│       │
+│       ├── fuzzy_canonical_mapping/
+│       │   ├── phase_D_fuzzy_all.csv
+│       │   ├── fuzzy_canonical_merged.csv
+│       │   └── transcription_*_structured_fuzzy.*
+│       │
+│       └── evaluation_audit_phase_E/
+│           ├── aligned_predictions_vs_gt.csv
+│           ├── confusion_matrix.png
+│           ├── failure_audit.csv
+│           ├── failure_summary.csv
+│           ├── metrics.json
+│           └── wer_cer_report.csv
+│
+└── __pycache__/   (ignored in Git)
+
+
