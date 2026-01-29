@@ -47,7 +47,7 @@ Each phase produces immutable artifacts and never mutates upstream outputs.
 The **Execution Controller Agent** governs all heavy computation.
 
 Responsibilities:
-- Enforces a Finite State Machine (FSM): `IDLE → THINK → ACT`
+- Enforces a Finite State Machine (FSM): `IDLE → THINK → ACT OR EMERGENCY`
 - Controls CPU thread usage
 - Owns the Whisper model lifecycle
 - Prevents autonomous or unsafe execution
