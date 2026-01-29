@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "26.wav",
+    "POSITION": 0,
+    "RAW_NAME": "DINOLEAL MXR",
+    "MAPPED_NAME": "DAONIL M XR",
+    "ITEM_CODE": "4446",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "25",
+    "MATCH_SCORE": 64.76,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "26.wav",
+    "POSITION": 1,
+    "RAW_NAME": "DEPAFLEX 10",
+    "MAPPED_NAME": "DAPAFLIX 10",
+    "ITEM_CODE": "BS11",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "45",
+    "MATCH_SCORE": 81.82,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "26.wav",
+    "POSITION": 2,
+    "RAW_NAME": "DEPAFLEX M 10 SLASH 1000 MG",
+    "MAPPED_NAME": "DAPALEX M 10 / 1000 MG",
+    "ITEM_CODE": "AJ56",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "48",
+    "MATCH_SCORE": 77.44,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "26.wav",
+    "POSITION": 3,
+    "RAW_NAME": "DEPAFLEX M 10 SLASH 500 MG",
+    "MAPPED_NAME": "DAPAFLIX M 10 / 500 MG",
+    "ITEM_CODE": "BS12",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "49",
+    "MATCH_SCORE": 74.09,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "26.wav",
+    "POSITION": 4,
+    "RAW_NAME": "DEPAFLEX S 10 SLASH 100",
+    "MAPPED_NAME": "DAPALEX S 10 / 100 MG",
+    "ITEM_CODE": "AJ75",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "15",
+    "MATCH_SCORE": 72.21,
+    "SOURCE": "FUZZY"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "ECHOSPIN AV 75 40 CAPSULE 6",
+    "raw_name": "ECHOSPIN AV 75 40",
+    "raw_form": "CAPSULE",
+    "raw_quantity": "6",
+    "boundary_confident": true,
+    "file_name": "45.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "ECHOSPIN AV 75 20 CAPSULE 8",
+    "raw_name": "ECHOSPIN AV 75 20",
+    "raw_form": "CAPSULE",
+    "raw_quantity": "8",
+    "boundary_confident": true,
+    "file_name": "45.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "ECTOVO 12 TABLET 5",
+    "raw_name": "ECTOVO 12",
+    "raw_form": "TABLET",
+    "raw_quantity": "5",
+    "boundary_confident": true,
+    "file_name": "45.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "EDAVIT 1.5 MG INJECTION 5",
+    "raw_name": "EDAVIT 1.5 MG",
+    "raw_form": "INJECTION",
+    "raw_quantity": "5",
+    "boundary_confident": true,
+    "file_name": "45.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "EDIPRIM PLUS TABLET 5",
+    "raw_name": "EDIPRIM PLUS",
+    "raw_form": "TABLET",
+    "raw_quantity": "5",
+    "boundary_confident": true,
+    "file_name": "45.wav"
+  }
+]

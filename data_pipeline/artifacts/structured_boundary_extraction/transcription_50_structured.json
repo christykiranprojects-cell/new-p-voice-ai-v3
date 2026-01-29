@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "ELECTROL ORANGE 200 ML SYRUP 4",
+    "raw_name": "ELECTROL ORANGE 200",
+    "raw_form": "SYRUP",
+    "raw_quantity": "4",
+    "boundary_confident": true,
+    "file_name": "50.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "ELECTROL 21.8 GM TABLET 2",
+    "raw_name": "ELECTROL 21.8 GM",
+    "raw_form": "TABLET",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "50.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "ELECTROL 4.4 GM TABLET 6",
+    "raw_name": "ELECTROL 4.4 GM",
+    "raw_form": "TABLET",
+    "raw_quantity": "6",
+    "boundary_confident": true,
+    "file_name": "50.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "ELECTROL ORANGE 21.8 GM TABLET 4",
+    "raw_name": "ELECTROL ORANGE 21.8 GM",
+    "raw_form": "TABLET",
+    "raw_quantity": "4",
+    "boundary_confident": true,
+    "file_name": "50.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "ELECTROL ORANGE 4.4 GM TABLET 6",
+    "raw_name": "ELECTROL ORANGE 4.4 GM",
+    "raw_form": "TABLET",
+    "raw_quantity": "6",
+    "boundary_confident": true,
+    "file_name": "50.wav"
+  }
+]

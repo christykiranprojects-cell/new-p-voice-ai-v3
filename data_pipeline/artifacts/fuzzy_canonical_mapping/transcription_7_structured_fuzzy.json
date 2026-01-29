@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "7.wav",
+    "POSITION": 0,
+    "RAW_NAME": "ANTICOL 2 MG",
+    "MAPPED_NAME": "ANTICHOL 2 MG",
+    "ITEM_CODE": 6065,
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "4",
+    "MATCH_SCORE": 94.27,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "7.wav",
+    "POSITION": 1,
+    "RAW_NAME": "ANTITHYROX 10 MG",
+    "MAPPED_NAME": "ANTI THYROX 10 MG",
+    "ITEM_CODE": 6066,
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "2",
+    "MATCH_SCORE": 95.68,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "7.wav",
+    "POSITION": 2,
+    "RAW_NAME": "ANTITHYROX 20 MG",
+    "MAPPED_NAME": "ANTI THYROX 20 MG",
+    "ITEM_CODE": 6204,
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "5",
+    "MATCH_SCORE": 95.68,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "7.wav",
+    "POSITION": 3,
+    "RAW_NAME": "ANTITHYROX 5 MG",
+    "MAPPED_NAME": "ANTI THYROX 5 MG",
+    "ITEM_CODE": 864,
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 95.4,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "7.wav",
+    "POSITION": 4,
+    "RAW_NAME": "ANTOXYL PHOTO",
+    "MAPPED_NAME": "ANTOXYL FORTE",
+    "ITEM_CODE": "TM27",
+    "MEDICINE_TYPE": "CAPSULE",
+    "QUANTITY": "1",
+    "MATCH_SCORE": 78.15,
+    "SOURCE": "FUZZY"
+  }
+]

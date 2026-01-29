@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "ANZIT 1 MG TABLET 9",
+    "raw_name": "ANZIT 1 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "9",
+    "boundary_confident": true,
+    "file_name": "10.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "ANZIT 1 SR TABLET 187",
+    "raw_name": "ANZIT 1 SR",
+    "raw_form": "TABLET",
+    "raw_quantity": "187",
+    "boundary_confident": true,
+    "file_name": "10.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "ANZUREST P TABLET 123",
+    "raw_name": "ANZUREST P",
+    "raw_form": "TABLET",
+    "raw_quantity": "123",
+    "boundary_confident": true,
+    "file_name": "10.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "APACE TH TABLET 8",
+    "raw_name": "APACE TH",
+    "raw_form": "TABLET",
+    "raw_quantity": "8",
+    "boundary_confident": true,
+    "file_name": "10.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "APALX 5 MG TABLET 47",
+    "raw_name": "APALX 5 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "47",
+    "boundary_confident": true,
+    "file_name": "10.wav"
+  }
+]

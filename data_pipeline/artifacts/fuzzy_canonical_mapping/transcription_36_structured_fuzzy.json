@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "36.wav",
+    "POSITION": 0,
+    "RAW_NAME": "DEPA 1 S 5 50",
+    "MAPPED_NAME": "DAPAONE S  5 / 50",
+    "ITEM_CODE": "MSN39",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "2",
+    "MATCH_SCORE": 72.18,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "36.wav",
+    "POSITION": 1,
+    "RAW_NAME": "DEPA 1 S 10 100",
+    "MAPPED_NAME": "DAPAONE S 10 / 100",
+    "ITEM_CODE": "MSN40",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 76.9,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "36.wav",
+    "POSITION": 2,
+    "RAW_NAME": "DEPA 1 SM 1000",
+    "MAPPED_NAME": "DAPAONE SM 1000",
+    "ITEM_CODE": "MSN44",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 76.82,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "36.wav",
+    "POSITION": 3,
+    "RAW_NAME": "DEPA 1 SM 500",
+    "MAPPED_NAME": "DAPAONE SM 500",
+    "ITEM_CODE": "MSN45",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "2",
+    "MATCH_SCORE": 74.92,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "36.wav",
+    "POSITION": 4,
+    "RAW_NAME": "DEPA 1 S 5 50",
+    "MAPPED_NAME": "DAPAONE S  5 / 50",
+    "ITEM_CODE": "MSN39",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "4",
+    "MATCH_SCORE": 72.18,
+    "SOURCE": "FUZZY"
+  }
+]

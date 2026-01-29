@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "27.wav",
+    "POSITION": 0,
+    "RAW_NAME": "DEPAFLEX S 5 100",
+    "MAPPED_NAME": "DAPAFLIX S 5 / 100",
+    "ITEM_CODE": "AKTIS1",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "2",
+    "MATCH_SCORE": 81.91,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "27.wav",
+    "POSITION": 1,
+    "RAW_NAME": "DEPAFLEX SM 10 100 1000",
+    "MAPPED_NAME": "DAPAFLIX SM 10 / 100 / 1000",
+    "ITEM_CODE": "BS22",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 84.13,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "27.wav",
+    "POSITION": 2,
+    "RAW_NAME": "DEPALEX 10 MG",
+    "MAPPED_NAME": "DAPALEX 10 MG",
+    "ITEM_CODE": "AJ27",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 92.31,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "27.wav",
+    "POSITION": 3,
+    "RAW_NAME": "DEPALEX 5 MG",
+    "MAPPED_NAME": "DAPALEX 5 MG",
+    "ITEM_CODE": "AJ29",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "2",
+    "MATCH_SCORE": 91.67,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "27.wav",
+    "POSITION": 4,
+    "RAW_NAME": "DEPALEX GM 1 10 1 500 MG",
+    "MAPPED_NAME": "DAPALEX GM 1 10 / 1 / 500 MG",
+    "ITEM_CODE": "AJ126",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "4",
+    "MATCH_SCORE": 88.12,
+    "SOURCE": "FUZZY"
+  }
+]

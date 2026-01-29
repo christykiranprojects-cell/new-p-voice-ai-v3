@@ -1,0 +1,4 @@
+file_name,segment_id,start_time_sec,end_time_sec,duration_sec,raw_transcript,language,audio_path,run_id
+16.wav,0,0.0,9.8,9.8,C320GM Tablet 1 C37 Injection 1,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\16.wav,run_20260126_213325
+16.wav,1,9.8,20.12,10.32,C37 60ml Syrup 1 C3HOA Tablet 1,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\16.wav,run_20260126_213325
+16.wav,2,20.12,24.520000000000003,4.400000000000002,CableS 0.25 Tablet 4,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\16.wav,run_20260126_213325

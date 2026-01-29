@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "ECOFLORA 30 TABLET 3",
+    "raw_name": "ECOFLORA 30",
+    "raw_form": "TABLET",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "42.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "ECOFRESH EYE DROPS 1",
+    "raw_name": "ECOFRESH",
+    "raw_form": "EYE DROPS",
+    "raw_quantity": "1",
+    "boundary_confident": true,
+    "file_name": "42.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "ECOSAFE SACHETS 2",
+    "raw_name": "ECOSAFE",
+    "raw_form": "SACHETS",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "42.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "ECOSAFE Z SACHETS 3",
+    "raw_name": "ECOSAFE Z",
+    "raw_form": "SACHETS",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "42.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "ECO SMIN 30 75 CAPSULE 3",
+    "raw_name": "ECOSMIN 30 75",
+    "raw_form": "CAPSULE",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "42.wav"
+  }
+]

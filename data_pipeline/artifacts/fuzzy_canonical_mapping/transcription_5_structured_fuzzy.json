@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "5.wav",
+    "POSITION": 0,
+    "RAW_NAME": "ANGELEITE 2.6",
+    "MAPPED_NAME": "ANGLIT 2.6",
+    "ITEM_CODE": 4661,
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "2",
+    "MATCH_SCORE": 81.65,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "5.wav",
+    "POSITION": 1,
+    "RAW_NAME": "ANORELPH",
+    "MAPPED_NAME": "ANORELIF",
+    "ITEM_CODE": 8945,
+    "MEDICINE_TYPE": "CREAM",
+    "QUANTITY": "6",
+    "MATCH_SCORE": 79.29,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "5.wav",
+    "POSITION": 2,
+    "RAW_NAME": "ANOSTICK",
+    "MAPPED_NAME": "ANOSTIK",
+    "ITEM_CODE": "USANO1",
+    "MEDICINE_TYPE": "CREAM",
+    "QUANTITY": "4",
+    "MATCH_SCORE": 92.92,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "5.wav",
+    "POSITION": 3,
+    "RAW_NAME": "ANOVATE 20 GM",
+    "MAPPED_NAME": "ANOVATE 20 GM",
+    "ITEM_CODE": "SE44",
+    "MEDICINE_TYPE": "OINTMENT",
+    "QUANTITY": "6",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "5.wav",
+    "POSITION": 4,
+    "RAW_NAME": "UNKNOWN",
+    "MAPPED_NAME": "DAONIL",
+    "ITEM_CODE": "AVDAO1",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "8",
+    "MATCH_SCORE": 36.24,
+    "SOURCE": "FUZZY"
+  }
+]

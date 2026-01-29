@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "49.wav",
+    "POSITION": 0,
+    "RAW_NAME": "LD3X4",
+    "MAPPED_NAME": "EL D3 x4",
+    "ITEM_CODE": "SIT7",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "1",
+    "MATCH_SCORE": 51.69,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "49.wav",
+    "POSITION": 1,
+    "RAW_NAME": "ALDIXENT",
+    "MAPPED_NAME": "ELDICET",
+    "ITEM_CODE": "4626",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "4",
+    "MATCH_SCORE": 68.57,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "49.wav",
+    "POSITION": 2,
+    "RAW_NAME": "ELDOPER",
+    "MAPPED_NAME": "ELDOPER",
+    "ITEM_CODE": "6891",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "6",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "49.wav",
+    "POSITION": 3,
+    "RAW_NAME": "ELECTROL APPLE 200",
+    "MAPPED_NAME": "ELECTRAL APPLE 200 ML",
+    "ITEM_CODE": "DC1",
+    "MEDICINE_TYPE": "SYRUP",
+    "QUANTITY": "7",
+    "MATCH_SCORE": 90.09,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "49.wav",
+    "POSITION": 4,
+    "RAW_NAME": "ELECTROL MANGO 200",
+    "MAPPED_NAME": "ELECTRAL MANGO 200 ML",
+    "ITEM_CODE": "DC2",
+    "MEDICINE_TYPE": "SYRUP",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 90.09,
+    "SOURCE": "FUZZY"
+  }
+]

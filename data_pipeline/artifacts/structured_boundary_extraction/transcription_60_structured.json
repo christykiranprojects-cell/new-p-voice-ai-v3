@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "UNMASOLE TABLET 35",
+    "raw_name": "UNMASOLE",
+    "raw_form": "TABLET",
+    "raw_quantity": "35",
+    "boundary_confident": true,
+    "file_name": "60.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "UNIMICHAL 100 TABLET 786",
+    "raw_name": "UNIMICHAL 100",
+    "raw_form": "TABLET",
+    "raw_quantity": "786",
+    "boundary_confident": true,
+    "file_name": "60.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "UNIMICHAL 200 TABLET 292",
+    "raw_name": "UNIMICHAL 200",
+    "raw_form": "TABLET",
+    "raw_quantity": "292",
+    "boundary_confident": true,
+    "file_name": "60.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "UNMILLON TABLET 2549",
+    "raw_name": "UNMILLON",
+    "raw_form": "TABLET",
+    "raw_quantity": "2549",
+    "boundary_confident": true,
+    "file_name": "60.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "UNIPANZERT 40 TABLET 2252",
+    "raw_name": "UNIPANZERT 40",
+    "raw_form": "TABLET",
+    "raw_quantity": "2252",
+    "boundary_confident": true,
+    "file_name": "60.wav"
+  }
+]

@@ -1,0 +1,3 @@
+file_name,segment_id,start_time_sec,end_time_sec,duration_sec,raw_transcript,language,audio_path,run_id
+9.wav,0,0.0,23.28,23.28,ANSYT 0.25 Tablet 25 ANSYT 0.5 Tablet 5 ANSYT Forte Tablet 40 ANSYT plus Tablet 8 ANSYT,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\9.wav,run_20260126_232310
+9.wav,1,23.28,27.44,4.16,0.5 SR Tablet 3,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\9.wav,run_20260126_232310

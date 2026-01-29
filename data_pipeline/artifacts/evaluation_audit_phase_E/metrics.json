@@ -1,0 +1,15 @@
+{
+  "tp": 260,
+  "fn": 29,
+  "fp": 0,
+  "tn": 0,
+  "accuracy": 0.9,
+  "precision": 1.0,
+  "recall": 0.9,
+  "f1_score": 0.95,
+  "quantity_mae": 0.0,
+  "mean_wer": 0.08,
+  "mean_cer": 0.05,
+  "rows_evaluated": 289.0,
+  "rows_with_quantity": 289.0
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "OF LOMAC M SYRUP 88",
+    "raw_name": "OFLOMAC M",
+    "raw_form": "SYRUP",
+    "raw_quantity": "88",
+    "boundary_confident": true,
+    "file_name": "52.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "OF LOMAC M 40 SYRUP 8",
+    "raw_name": "OFLOMAC M 40",
+    "raw_form": "SYRUP",
+    "raw_quantity": "8",
+    "boundary_confident": true,
+    "file_name": "52.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "OF LOMAC OZ TABLET 8",
+    "raw_name": "OFLOMAC OZ",
+    "raw_form": "TABLET",
+    "raw_quantity": "8",
+    "boundary_confident": true,
+    "file_name": "52.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "OF LOMAC OZ SYRUP 98",
+    "raw_name": "OFLOMAC OZ",
+    "raw_form": "SYRUP",
+    "raw_quantity": "98",
+    "boundary_confident": true,
+    "file_name": "52.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "OF LOMAC TZ TABLET 89.",
+    "raw_name": "OFLOMAC TZ",
+    "raw_form": "TABLET",
+    "raw_quantity": "89",
+    "boundary_confident": true,
+    "file_name": "52.wav"
+  }
+]

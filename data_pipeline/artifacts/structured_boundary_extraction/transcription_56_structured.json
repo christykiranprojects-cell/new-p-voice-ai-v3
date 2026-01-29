@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "ULKEN , MV 200 , TABLET , 222",
+    "raw_name": "ULKEN , MV 200 ,",
+    "raw_form": "TABLET",
+    "raw_quantity": "222",
+    "boundary_confident": true,
+    "file_name": "56.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "ULKEN , MV , TABLET , 333",
+    "raw_name": "ULKEN , MV ,",
+    "raw_form": "TABLET",
+    "raw_quantity": "333",
+    "boundary_confident": true,
+    "file_name": "56.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "ULFRI , TABLET , 444",
+    "raw_name": "ULFRI ,",
+    "raw_form": "TABLET",
+    "raw_quantity": "444",
+    "boundary_confident": true,
+    "file_name": "56.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "ALPRIDE , 25 , TABLET , 555",
+    "raw_name": "ALPRIDE , 25 ,",
+    "raw_form": "TABLET",
+    "raw_quantity": "555",
+    "boundary_confident": true,
+    "file_name": "56.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "ULTICAL , TABLET , 666.",
+    "raw_name": "ULTICAL ,",
+    "raw_form": "TABLET",
+    "raw_quantity": "666",
+    "boundary_confident": true,
+    "file_name": "56.wav"
+  }
+]

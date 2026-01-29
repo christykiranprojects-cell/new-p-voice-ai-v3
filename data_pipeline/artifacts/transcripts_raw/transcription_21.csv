@@ -1,0 +1,2 @@
+file_name,segment_id,start_time_sec,end_time_sec,duration_sec,raw_transcript,language,audio_path,run_id
+21.wav,0,0.0,23.0,23.0,"Calc wave, Coral, Tablet 5, Calc worth, Capsule 3, Calc 6, Tablet 2, Calc on star, D3, Tablet 1, Calculate, Tablet 6",en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\21.wav,run_20260126_214307

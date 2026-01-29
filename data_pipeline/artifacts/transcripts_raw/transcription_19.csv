@@ -1,0 +1,4 @@
+file_name,segment_id,start_time_sec,end_time_sec,duration_sec,raw_transcript,language,audio_path,run_id
+19.wav,0,0.0,9.76,9.76,CalCheck 2.5 mg tablet 2 CalCheck 5 mg tablet 3,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\19.wav,run_20260126_213810
+19.wav,1,9.76,21.28,11.520000000000001,CalCheck L 2.5 mg tablet 3 CalCheck L 5 mg tablet 2,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\19.wav,run_20260126_213810
+19.wav,2,21.28,28.16,6.879999999999999,CalCheck T 40 mg tablet 4,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\19.wav,run_20260126_213810

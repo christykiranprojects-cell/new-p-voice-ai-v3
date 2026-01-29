@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "45.wav",
+    "POSITION": 0,
+    "RAW_NAME": "ECHOSPIN AV 75 40",
+    "MAPPED_NAME": "ECOSPRIN AV 75 / 40",
+    "ITEM_CODE": "US27",
+    "MEDICINE_TYPE": "CAPSULE",
+    "QUANTITY": "6",
+    "MATCH_SCORE": 88.33,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "45.wav",
+    "POSITION": 1,
+    "RAW_NAME": "ECHOSPIN AV 75 20",
+    "MAPPED_NAME": "ECOSPRIN AV 75 / 20",
+    "ITEM_CODE": "3837",
+    "MEDICINE_TYPE": "CAPSULE",
+    "QUANTITY": "8",
+    "MATCH_SCORE": 88.33,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "45.wav",
+    "POSITION": 2,
+    "RAW_NAME": "ECTOVO 12",
+    "MAPPED_NAME": "ECTOVER 12",
+    "ITEM_CODE": "9047",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "5",
+    "MATCH_SCORE": 81.64,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "45.wav",
+    "POSITION": 3,
+    "RAW_NAME": "EDAVIT 1.5 MG",
+    "MAPPED_NAME": "EDAVIT 1.5 MG",
+    "ITEM_CODE": "2938",
+    "MEDICINE_TYPE": "INJUCTION",
+    "QUANTITY": "5",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "45.wav",
+    "POSITION": 4,
+    "RAW_NAME": "EDIPRIM PLUS",
+    "MAPPED_NAME": "EDIPRAM PLUS",
+    "ITEM_CODE": "MAT4",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "5",
+    "MATCH_SCORE": 91.67,
+    "SOURCE": "FUZZY"
+  }
+]

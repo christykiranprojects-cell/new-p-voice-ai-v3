@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "ANGITER 2.6 TABLET 2",
+    "raw_name": "ANGITER 2.6",
+    "raw_form": "TABLET",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "4.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "ANGES ARE 25 TABLET 3",
+    "raw_name": "ANGES ARE 25",
+    "raw_form": "TABLET",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "4.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "ANGES ARE 50 MG TABLET 3",
+    "raw_name": "ANGES ARE 50 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "4.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "ANGES ARE 80 TABLET 2",
+    "raw_name": "ANGES ARE 80",
+    "raw_form": "TABLET",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "4.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "ANGES ARE H TABLET 4",
+    "raw_name": "ANGES ARE H",
+    "raw_form": "TABLET",
+    "raw_quantity": "4",
+    "boundary_confident": true,
+    "file_name": "4.wav"
+  }
+]

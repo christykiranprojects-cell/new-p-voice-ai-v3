@@ -1,0 +1,6 @@
+file_name,segment_id,start_time_sec,end_time_sec,duration_sec,raw_transcript,language,audio_path,run_id
+12.wav,0,0.0,5.0,5.0,Bacolin Tablet 15,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\12.wav,run_20260126_212545
+12.wav,1,5.0,11.0,6.0,Bacstal Tablet 1235,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\12.wav,run_20260126_212545
+12.wav,2,11.0,19.0,8.0,Bacstal 200 Tablet 2584,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\12.wav,run_20260126_212545
+12.wav,3,19.0,26.0,7.0,Bactiloc CV6 Tablet 600,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\12.wav,run_20260126_212545
+12.wav,4,26.0,32.0,6.0,Bactiloc CV10 Tablet 699,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\12.wav,run_20260126_212545

@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "11.wav",
+    "POSITION": 0,
+    "RAW_NAME": "BBC",
+    "MAPPED_NAME": "BBC SYRUP",
+    "ITEM_CODE": "DO1",
+    "MEDICINE_TYPE": "SYRUP",
+    "QUANTITY": "5",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "11.wav",
+    "POSITION": 1,
+    "RAW_NAME": "BBC",
+    "MAPPED_NAME": "BBC SYRUP",
+    "ITEM_CODE": "DO1",
+    "MEDICINE_TYPE": "SYRUP",
+    "QUANTITY": "25",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "11.wav",
+    "POSITION": 2,
+    "RAW_NAME": "BTC KIT",
+    "MAPPED_NAME": "BTC KIT",
+    "ITEM_CODE": "1352",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "45",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "11.wav",
+    "POSITION": 3,
+    "RAW_NAME": "BAXILON",
+    "MAPPED_NAME": "BACILON",
+    "ITEM_CODE": "IP39",
+    "MEDICINE_TYPE": "CAPSULE",
+    "QUANTITY": "48",
+    "MATCH_SCORE": 85.71,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "11.wav",
+    "POSITION": 4,
+    "RAW_NAME": "BAXILON 5",
+    "MAPPED_NAME": "BACILON 5 ML",
+    "ITEM_CODE": "IP40",
+    "MEDICINE_TYPE": "PROBIOTIC LIQUID",
+    "QUANTITY": "49",
+    "MATCH_SCORE": 81.27,
+    "SOURCE": "FUZZY"
+  }
+]

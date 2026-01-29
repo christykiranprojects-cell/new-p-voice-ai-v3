@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "E BAST 20 TABLET 25",
+    "raw_name": "EBAST 20",
+    "raw_form": "TABLET",
+    "raw_quantity": "25",
+    "boundary_confident": true,
+    "file_name": "39.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "E BAST DC TABLET 45",
+    "raw_name": "EBAST DC",
+    "raw_form": "TABLET",
+    "raw_quantity": "45",
+    "boundary_confident": true,
+    "file_name": "39.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "E BAST DT TABLET 48",
+    "raw_name": "EBAST DT",
+    "raw_form": "TABLET",
+    "raw_quantity": "48",
+    "boundary_confident": true,
+    "file_name": "39.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "E BAST M TABLET 49",
+    "raw_name": "EBAST M",
+    "raw_form": "TABLET",
+    "raw_quantity": "49",
+    "boundary_confident": true,
+    "file_name": "39.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "E BAST M KID TABLET 15",
+    "raw_name": "EBAST M KID",
+    "raw_form": "TABLET",
+    "raw_quantity": "15",
+    "boundary_confident": true,
+    "file_name": "39.wav"
+  }
+]

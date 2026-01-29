@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "ANSYT 0.25 TABLET 25",
+    "raw_name": "ANSYT 0.25",
+    "raw_form": "TABLET",
+    "raw_quantity": "25",
+    "boundary_confident": true,
+    "file_name": "9.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "ANSYT 0.5 TABLET 5",
+    "raw_name": "ANSYT 0.5",
+    "raw_form": "TABLET",
+    "raw_quantity": "5",
+    "boundary_confident": true,
+    "file_name": "9.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "ANSYT FORTE TABLET 40",
+    "raw_name": "ANSYT FORTE",
+    "raw_form": "TABLET",
+    "raw_quantity": "40",
+    "boundary_confident": true,
+    "file_name": "9.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "ANSYT PLUS TABLET 8",
+    "raw_name": "ANSYT PLUS",
+    "raw_form": "TABLET",
+    "raw_quantity": "8",
+    "boundary_confident": true,
+    "file_name": "9.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "ANSYT 0.5 SR TABLET 3",
+    "raw_name": "ANSYT 0.5 SR",
+    "raw_form": "TABLET",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "9.wav"
+  }
+]

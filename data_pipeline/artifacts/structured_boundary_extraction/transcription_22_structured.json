@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "CALCULATE D 3 TABLET 4",
+    "raw_name": "CALCULATE D 3",
+    "raw_form": "TABLET",
+    "raw_quantity": "4",
+    "boundary_confident": true,
+    "file_name": "22.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "CALCD TABLET 2",
+    "raw_name": "CALCD",
+    "raw_form": "TABLET",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "22.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "CALCD TABLET 5",
+    "raw_name": "CALCD",
+    "raw_form": "TABLET",
+    "raw_quantity": "5",
+    "boundary_confident": true,
+    "file_name": "22.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "CALFLAVNI TABLET 3",
+    "raw_name": "CALFLAVNI",
+    "raw_form": "TABLET",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "22.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "CALHARDT ISO TABLET 1",
+    "raw_name": "CALHARDT ISO",
+    "raw_form": "TABLET",
+    "raw_quantity": "1",
+    "boundary_confident": true,
+    "file_name": "22.wav"
+  }
+]

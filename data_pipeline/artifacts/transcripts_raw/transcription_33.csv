@@ -1,0 +1,4 @@
+file_name,segment_id,start_time_sec,end_time_sec,duration_sec,raw_transcript,language,audio_path,run_id
+33.wav,0,0.0,14.32,14.32,DIPANOVA M10-1000 Tablet 3 DIPANOVA M10-500 Tablet 2,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\33.wav,run_20260126_221439
+33.wav,1,14.32,27.560000000000002,13.240000000000002,DIPANOVA M5-1000 Tablet 4 DIPANOVA M5-500 Tablet 2,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\33.wav,run_20260126_221439
+33.wav,2,27.56,33.92,6.360000000000003,DIPANOVA M10-100 Tablet 6,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\33.wav,run_20260126_221439

@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "DAROLAC 30 ML SYRUP 2",
+    "raw_name": "DAROLAC 30",
+    "raw_form": "SYRUP",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "38.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "DAROLAC AQUA TABLET 4",
+    "raw_name": "DAROLAC AQUA",
+    "raw_form": "TABLET",
+    "raw_quantity": "4",
+    "boundary_confident": true,
+    "file_name": "38.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "DAROLAC IBS CAPSULE 3",
+    "raw_name": "DAROLAC IBS",
+    "raw_form": "CAPSULE",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "38.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "DAROLAC SC POUCH TABLET 2",
+    "raw_name": "DAROLAC SC POUCH",
+    "raw_form": "TABLET",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "38.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "DACILIN NF SYRUP 4",
+    "raw_name": "DACILIN NF",
+    "raw_form": "SYRUP",
+    "raw_quantity": "4",
+    "boundary_confident": true,
+    "file_name": "38.wav"
+  }
+]

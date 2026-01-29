@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "24.wav",
+    "POSITION": 0,
+    "RAW_NAME": "DAGIIO GM 1",
+    "MAPPED_NAME": "DAJIO GM 1",
+    "ITEM_CODE": "MI161",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "5",
+    "MATCH_SCORE": 84.37,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "24.wav",
+    "POSITION": 1,
+    "RAW_NAME": "DAGIIO GM 2",
+    "MAPPED_NAME": "DAJIO GM 2",
+    "ITEM_CODE": "MI162",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "40",
+    "MATCH_SCORE": 84.37,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "24.wav",
+    "POSITION": 2,
+    "RAW_NAME": "DAGIIO GM 40 2",
+    "MAPPED_NAME": "DAJIO GM 2",
+    "ITEM_CODE": "MI162",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "8",
+    "MATCH_SCORE": 77.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "24.wav",
+    "POSITION": 3,
+    "RAW_NAME": "DAGIIO L 5",
+    "MAPPED_NAME": "DAJIO L 5 TAB",
+    "ITEM_CODE": "MI130",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 75.42,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "24.wav",
+    "POSITION": 4,
+    "RAW_NAME": "DAGIIO M 1000",
+    "MAPPED_NAME": "DAJIO M 1000",
+    "ITEM_CODE": "MI41",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "9",
+    "MATCH_SCORE": 87.09,
+    "SOURCE": "FUZZY"
+  }
+]

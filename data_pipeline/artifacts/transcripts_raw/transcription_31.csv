@@ -1,0 +1,4 @@
+file_name,segment_id,start_time_sec,end_time_sec,duration_sec,raw_transcript,language,audio_path,run_id
+31.wav,0,0.0,13.4,13.4,DEPA MAC TRIO 500MG Tablet 2 DEPA MAC V10-100 Tablet 1,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\31.wav,run_20260126_221106
+31.wav,1,13.4,25.0,11.6,DEPA MAC V5-100 Tablet 1 DEPA NOVA 10 Tablet 4,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\31.wav,run_20260126_221106
+31.wav,2,25.0,29.6,4.600000000000001,DEPA NOVA 5 Tablet 6,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\31.wav,run_20260126_221106

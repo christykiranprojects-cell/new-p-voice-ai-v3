@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "35.wav",
+    "POSITION": 0,
+    "RAW_NAME": "DEPA 1 L 10 PLUS 5 MG",
+    "MAPPED_NAME": "DAPAONE L 10 + 5 MG",
+    "ITEM_CODE": "MSN68",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "4",
+    "MATCH_SCORE": 69.37,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "35.wav",
+    "POSITION": 1,
+    "RAW_NAME": "DEPA 1 M 10 SLASH 1000",
+    "MAPPED_NAME": "DAPAMAC M 10 / 1000",
+    "ITEM_CODE": "MACL95",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "6",
+    "MATCH_SCORE": 69.17,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "35.wav",
+    "POSITION": 2,
+    "RAW_NAME": "DEPA 1 M 10 SLASH 500",
+    "MAPPED_NAME": "DAPALEX M 10 / 500 ",
+    "ITEM_CODE": "AJ121",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "7",
+    "MATCH_SCORE": 68.34,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "35.wav",
+    "POSITION": 3,
+    "RAW_NAME": "DEPA 1 M 5 SLASH 1000",
+    "MAPPED_NAME": "DAPAMAC M 5 / 1000",
+    "ITEM_CODE": "MACL93",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 67.52,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "35.wav",
+    "POSITION": 4,
+    "RAW_NAME": "DEPA 1 M 5 SLASH 500",
+    "MAPPED_NAME": "DAPAMAC M 5 / 500",
+    "ITEM_CODE": "MACL92",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "1",
+    "MATCH_SCORE": 65.69,
+    "SOURCE": "FUZZY"
+  }
+]

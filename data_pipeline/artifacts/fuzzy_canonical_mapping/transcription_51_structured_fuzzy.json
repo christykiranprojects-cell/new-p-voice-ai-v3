@@ -1,0 +1,46 @@
+[
+  {
+    "FILE_NAME": "51.wav",
+    "POSITION": 0,
+    "RAW_NAME": "ELECTROL Z PLUS 4.38 GM",
+    "MAPPED_NAME": "ELECTRAL Z PLUS 4.38 GM",
+    "ITEM_CODE": "28710",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 95.65,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "51.wav",
+    "POSITION": 1,
+    "RAW_NAME": "ELECTROL Z RD ORANGE 200",
+    "MAPPED_NAME": "ELECTRAL Z RD ORANGE 200 ML",
+    "ITEM_CODE": "DC140",
+    "MEDICINE_TYPE": "SYRUP",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 92.45,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "51.wav",
+    "POSITION": 2,
+    "RAW_NAME": "ELECTROBION ORANGE 21 GM",
+    "MAPPED_NAME": "ELECTROBION ORANGE 21 GM",
+    "ITEM_CODE": "2352",
+    "MEDICINE_TYPE": "SYRUP",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "51.wav",
+    "POSITION": 3,
+    "RAW_NAME": "ELECTROBION ORANGE 4.2 GM",
+    "MAPPED_NAME": "ELECTROBION ORANGE 4.2 GM",
+    "ITEM_CODE": "3199",
+    "MEDICINE_TYPE": "SYRUP",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  }
+]

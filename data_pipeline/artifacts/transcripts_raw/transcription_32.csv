@@ -1,0 +1,4 @@
+file_name,segment_id,start_time_sec,end_time_sec,duration_sec,raw_transcript,language,audio_path,run_id
+32.wav,0,0.0,14.0,14.0,DepaNova GM Forte 1 Tablet 7 DepaNova GM Forte 2 Tablet 3,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\32.wav,run_20260126_221252
+32.wav,1,14.0,24.0,10.0,DepaNova GM 1 Tablet 1 DepaNova GM 2 Tablet 2,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\32.wav,run_20260126_221252
+32.wav,2,24.0,29.0,5.0,DepaNova L Tablet 3,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\32.wav,run_20260126_221252

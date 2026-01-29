@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "NFLAME XP TABLET 1",
+    "raw_name": "NFLAME XP",
+    "raw_form": "TABLET",
+    "raw_quantity": "1",
+    "boundary_confident": true,
+    "file_name": "1.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "NFLAME XPS TABLET 1",
+    "raw_name": "NFLAME XPS",
+    "raw_form": "TABLET",
+    "raw_quantity": "1",
+    "boundary_confident": true,
+    "file_name": "1.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "ANIPET 12.5 TABLET 1",
+    "raw_name": "ANIPET 12.5",
+    "raw_form": "TABLET",
+    "raw_quantity": "1",
+    "boundary_confident": true,
+    "file_name": "1.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "ANGICAM 2.5 MG TABLET 1",
+    "raw_name": "ANGICAM 2.5 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "1",
+    "boundary_confident": true,
+    "file_name": "1.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "ANGICAM 5 MG TABLET 4.",
+    "raw_name": "ANGICAM 5 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "4",
+    "boundary_confident": true,
+    "file_name": "1.wav"
+  }
+]

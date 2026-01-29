@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "DEPA MAC M 10 1000 TABLET 4",
+    "raw_name": "DEPAMAC M 10 1000",
+    "raw_form": "TABLET",
+    "raw_quantity": "4",
+    "boundary_confident": true,
+    "file_name": "30.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "DEPA MAC M 10 500 TABLET 2",
+    "raw_name": "DEPAMAC M 10 500",
+    "raw_form": "TABLET",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "30.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "DEPA MAC M 5 1000 TABLET 5",
+    "raw_name": "DEPAMAC M 5 1000",
+    "raw_form": "TABLET",
+    "raw_quantity": "5",
+    "boundary_confident": true,
+    "file_name": "30.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "DEPA MAC M 5 500 TABLET 3",
+    "raw_name": "DEPAMAC M 5 500",
+    "raw_form": "TABLET",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "30.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "DEPA MAC TRIO 1000 MG TABLET 3",
+    "raw_name": "DEPAMAC TRIO 1000 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "30.wav"
+  }
+]

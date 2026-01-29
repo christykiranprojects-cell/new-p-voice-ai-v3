@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "ANGICAM BETA TABLET 3",
+    "raw_name": "ANGICAM BETA",
+    "raw_form": "TABLET",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "2.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "ANGICAM H TABLET 2",
+    "raw_name": "ANGICAM H",
+    "raw_form": "TABLET",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "2.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "ANGICAM LT TABLET 2",
+    "raw_name": "ANGICAM LT",
+    "raw_form": "TABLET",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "2.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "ANGICAM M TABLET 1",
+    "raw_name": "ANGICAM M",
+    "raw_form": "TABLET",
+    "raw_quantity": "1",
+    "boundary_confident": true,
+    "file_name": "2.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "ANGIFREE 20 MG TABLET 1.",
+    "raw_name": "ANGIFREE 20 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "1",
+    "boundary_confident": true,
+    "file_name": "2.wav"
+  }
+]

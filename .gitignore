@@ -1,0 +1,36 @@
+# ==============================
+# Python bytecode / cache
+# ==============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ==============================
+# Virtual environment (CRITICAL)
+# ==============================
+Lib/
+Scripts/
+share/
+.venv/
+env/
+
+# ==============================
+# CSV/PNG/JSON generated outputs
+# (KEEP INCLUDED via artifacts folder)
+# ==============================
+# (no global ignore here)
+
+# ==============================
+# Whisper / model cache
+# ==============================
+*.pt
+*.bin
+.whisper/
+
+# ==============================
+# OS / Editor noise
+# ==============================
+Thumbs.db
+.DS_Store
+.vscode/

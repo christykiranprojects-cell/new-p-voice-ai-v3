@@ -1,0 +1,3 @@
+file_name,segment_id,start_time_sec,end_time_sec,duration_sec,raw_transcript,language,audio_path,run_id
+41.wav,0,0.0,21.86,21.86,EC-GO tablet 1 EC-LOB plus 0.5 mg slash 10 mg tablet 1 EC-LOB 10 tablet 4 Eclogrand,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\41.wav,run_20260126_223255
+41.wav,1,21.86,31.619999999999997,9.759999999999998,15 gm cream 6 Eclogrand 10 tablet 7,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\41.wav,run_20260126_223255

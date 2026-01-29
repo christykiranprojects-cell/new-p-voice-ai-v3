@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "CAFFEINE 150 ML SHAMPOO 4",
+    "raw_name": "CAFFEINE 150",
+    "raw_form": "SHAMPOO",
+    "raw_quantity": "4",
+    "boundary_confident": true,
+    "file_name": "18.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "CAKEX TABLET 6",
+    "raw_name": "CAKEX",
+    "raw_form": "TABLET",
+    "raw_quantity": "6",
+    "boundary_confident": true,
+    "file_name": "18.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "CAELB TABLET 7",
+    "raw_name": "CAELB",
+    "raw_form": "TABLET",
+    "raw_quantity": "7",
+    "boundary_confident": true,
+    "file_name": "18.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "CALBOND MILK 250 ML TABLET 3",
+    "raw_name": "CALBOND MILK 250",
+    "raw_form": "TABLET",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "18.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "CALCASE XT TABLET 1",
+    "raw_name": "CALCASE XT",
+    "raw_form": "TABLET",
+    "raw_quantity": "1",
+    "boundary_confident": true,
+    "file_name": "18.wav"
+  }
+]

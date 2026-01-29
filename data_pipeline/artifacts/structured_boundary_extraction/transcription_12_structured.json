@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "BACOLIN TABLET 15",
+    "raw_name": "BACOLIN",
+    "raw_form": "TABLET",
+    "raw_quantity": "15",
+    "boundary_confident": true,
+    "file_name": "12.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "BACSTAL TABLET 1235",
+    "raw_name": "BACSTAL",
+    "raw_form": "TABLET",
+    "raw_quantity": "1235",
+    "boundary_confident": true,
+    "file_name": "12.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "BACSTAL 200 TABLET 2584",
+    "raw_name": "BACSTAL 200",
+    "raw_form": "TABLET",
+    "raw_quantity": "2584",
+    "boundary_confident": true,
+    "file_name": "12.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "BACTILOC CV 6 TABLET 600",
+    "raw_name": "BACTILOC CV 6",
+    "raw_form": "TABLET",
+    "raw_quantity": "600",
+    "boundary_confident": true,
+    "file_name": "12.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "BACTILOC CV 10 TABLET 699",
+    "raw_name": "BACTILOC CV 10",
+    "raw_form": "TABLET",
+    "raw_quantity": "699",
+    "boundary_confident": true,
+    "file_name": "12.wav"
+  }
+]

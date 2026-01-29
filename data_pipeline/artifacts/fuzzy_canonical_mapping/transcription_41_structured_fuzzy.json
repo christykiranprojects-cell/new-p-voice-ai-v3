@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "41.wav",
+    "POSITION": 0,
+    "RAW_NAME": "EC GO",
+    "MAPPED_NAME": "EC GO",
+    "ITEM_CODE": "5463",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "1",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "41.wav",
+    "POSITION": 1,
+    "RAW_NAME": "EC LOB PLUS 0.5 MG SLASH 10 MG",
+    "MAPPED_NAME": "ECILOP PLUS 0.5 MG / 10 MG",
+    "ITEM_CODE": "9145",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "1",
+    "MATCH_SCORE": 76.37,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "41.wav",
+    "POSITION": 2,
+    "RAW_NAME": "EC LOB 10",
+    "MAPPED_NAME": "ECILOP 10",
+    "ITEM_CODE": "9144",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "4",
+    "MATCH_SCORE": 77.78,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "41.wav",
+    "POSITION": 3,
+    "RAW_NAME": "ECLOGRAND 15 GM",
+    "MAPPED_NAME": "ECLOGARD 15 GM",
+    "ITEM_CODE": "8144",
+    "MEDICINE_TYPE": "CREAM",
+    "QUANTITY": "6",
+    "MATCH_SCORE": 88.08,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "41.wav",
+    "POSITION": 4,
+    "RAW_NAME": "ECLOGRAND 10",
+    "MAPPED_NAME": "ECOFLORA 10",
+    "ITEM_CODE": "981",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "7",
+    "MATCH_SCORE": 76.05,
+    "SOURCE": "FUZZY"
+  }
+]

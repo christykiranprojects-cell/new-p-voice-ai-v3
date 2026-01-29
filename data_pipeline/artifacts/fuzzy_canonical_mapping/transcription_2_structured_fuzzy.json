@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "2.wav",
+    "POSITION": 0,
+    "RAW_NAME": "ANGICAM BETA",
+    "MAPPED_NAME": "ANGICAM BETA",
+    "ITEM_CODE": 9302,
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "2.wav",
+    "POSITION": 1,
+    "RAW_NAME": "ANGICAM H",
+    "MAPPED_NAME": "ANGICAM H",
+    "ITEM_CODE": 9303,
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "2",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "2.wav",
+    "POSITION": 2,
+    "RAW_NAME": "ANGICAM LT",
+    "MAPPED_NAME": "ANGICAM LT",
+    "ITEM_CODE": 9304,
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "2",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "2.wav",
+    "POSITION": 3,
+    "RAW_NAME": "ANGICAM M",
+    "MAPPED_NAME": "ANGICAM M",
+    "ITEM_CODE": 9300,
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "1",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "2.wav",
+    "POSITION": 4,
+    "RAW_NAME": "ANGIFREE 20 MG",
+    "MAPPED_NAME": "ANGIFREE 20 MG",
+    "ITEM_CODE": 3938,
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "1",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  }
+]

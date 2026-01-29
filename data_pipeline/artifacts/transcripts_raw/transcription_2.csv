@@ -1,0 +1,3 @@
+file_name,segment_id,start_time_sec,end_time_sec,duration_sec,raw_transcript,language,audio_path,run_id
+2.wav,0,0.0,23.68,23.68,"Angicam beta tablet 3, Angicam H tablet 2, Angicam LT tablet 2, Angicam M tablet 1, Angifree",en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\2.wav,run_20260126_214003
+2.wav,1,23.68,27.36,3.6799999999999997,20 MG tablet 1.,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\2.wav,run_20260126_214003

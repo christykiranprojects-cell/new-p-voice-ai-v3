@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "1.wav",
+    "POSITION": 0,
+    "RAW_NAME": "NFLAME XP",
+    "MAPPED_NAME": "ANAFLAM XP",
+    "ITEM_CODE": 3991,
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "1",
+    "MATCH_SCORE": 86.08,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "1.wav",
+    "POSITION": 1,
+    "RAW_NAME": "NFLAME XPS",
+    "MAPPED_NAME": "ANAFLAM XPS",
+    "ITEM_CODE": 4109,
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "1",
+    "MATCH_SCORE": 87.43,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "1.wav",
+    "POSITION": 2,
+    "RAW_NAME": "ANIPET 12.5",
+    "MAPPED_NAME": "ANEPT 12.5",
+    "ITEM_CODE": "CON31",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "1",
+    "MATCH_SCORE": 84.37,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "1.wav",
+    "POSITION": 3,
+    "RAW_NAME": "ANGICAM 2.5 MG",
+    "MAPPED_NAME": "ANGICAM 2.5 MG",
+    "ITEM_CODE": 9358,
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "1",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "1.wav",
+    "POSITION": 4,
+    "RAW_NAME": "ANGICAM 5 MG",
+    "MAPPED_NAME": "ANGICAM 5 MG",
+    "ITEM_CODE": 9301,
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "4",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  }
+]

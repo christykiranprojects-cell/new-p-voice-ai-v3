@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "CABLES 0.50 TABLET 3",
+    "raw_name": "CABLES 0.50",
+    "raw_form": "TABLET",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "17.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "CAPNET M TABLET 2",
+    "raw_name": "CAPNET M",
+    "raw_form": "TABLET",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "17.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "CADDYFILITE 200 ML SYRUP 2",
+    "raw_name": "CADDYFILITE 200",
+    "raw_form": "SYRUP",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "17.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "CADDYVON O 3 CAPSULE 1",
+    "raw_name": "CADDYVON O 3",
+    "raw_form": "CAPSULE",
+    "raw_quantity": "1",
+    "boundary_confident": true,
+    "file_name": "17.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "CADDYVON FORTE CAPSULE 1",
+    "raw_name": "CADDYVON FORTE",
+    "raw_form": "CAPSULE",
+    "raw_quantity": "1",
+    "boundary_confident": true,
+    "file_name": "17.wav"
+  }
+]

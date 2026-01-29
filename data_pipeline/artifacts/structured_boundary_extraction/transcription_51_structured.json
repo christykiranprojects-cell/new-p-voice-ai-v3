@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "ELECTROL Z PLUS 4.38 GM TABLET 3",
+    "raw_name": "ELECTROL Z PLUS 4.38 GM",
+    "raw_form": "TABLET",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "51.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "ELECTROL Z RD ORANGE 200 ML SYRUP 3",
+    "raw_name": "ELECTROL Z RD ORANGE 200",
+    "raw_form": "SYRUP",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "51.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "ELECTROBION ORANGE 21 GM SYRUP 3",
+    "raw_name": "ELECTROBION ORANGE 21 GM",
+    "raw_form": "SYRUP",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "51.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "ELECTROBION ORANGE 4.2 GM SYRUP 3",
+    "raw_name": "ELECTROBION ORANGE 4.2 GM",
+    "raw_form": "SYRUP",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "51.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "ELECTROBION PRO SEARCHEST 3",
+    "raw_name": "ELECTROBION PRO",
+    "raw_form": "SACHETS",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "51.wav"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "DEPAFLEX S 5 100 TABLET 2",
+    "raw_name": "DEPAFLEX S 5 100",
+    "raw_form": "TABLET",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "27.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "DEPAFLEX SM 10 100 1000 TABLET 3",
+    "raw_name": "DEPAFLEX SM 10 100 1000",
+    "raw_form": "TABLET",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "27.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "DEPALEX 10 MG TABLET 3",
+    "raw_name": "DEPALEX 10 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "27.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "DEPALEX 5 MG TABLET 2",
+    "raw_name": "DEPALEX 5 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "27.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "DEPALEX GM 1 10 1 500 MG TABLET 4",
+    "raw_name": "DEPALEX GM 1 10 1 500 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "4",
+    "boundary_confident": true,
+    "file_name": "27.wav"
+  }
+]

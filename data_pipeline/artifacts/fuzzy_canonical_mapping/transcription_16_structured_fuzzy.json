@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "16.wav",
+    "POSITION": 0,
+    "RAW_NAME": "C320GM",
+    "MAPPED_NAME": "C3 20 GM",
+    "ITEM_CODE": "ALB4",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "1",
+    "MATCH_SCORE": 63.38,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "16.wav",
+    "POSITION": 1,
+    "RAW_NAME": "C 37",
+    "MAPPED_NAME": "C 37",
+    "ITEM_CODE": "6952",
+    "MEDICINE_TYPE": "INJUCTION",
+    "QUANTITY": "1",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "16.wav",
+    "POSITION": 2,
+    "RAW_NAME": "C 37 60",
+    "MAPPED_NAME": "C 37",
+    "ITEM_CODE": "6952",
+    "MEDICINE_TYPE": "INJUCTION",
+    "QUANTITY": "1",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "16.wav",
+    "POSITION": 3,
+    "RAW_NAME": "C3HOA",
+    "MAPPED_NAME": "C3H OA",
+    "ITEM_CODE": "ALB17",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "1",
+    "MATCH_SCORE": 86.55,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "16.wav",
+    "POSITION": 4,
+    "RAW_NAME": "CABLES 0.25",
+    "MAPPED_NAME": "CABLIZ 0.25",
+    "ITEM_CODE": "MACL111",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "4",
+    "MATCH_SCORE": 81.82,
+    "SOURCE": "FUZZY"
+  }
+]

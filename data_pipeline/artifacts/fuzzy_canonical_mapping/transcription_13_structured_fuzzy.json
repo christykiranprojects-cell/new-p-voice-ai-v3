@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "13.wav",
+    "POSITION": 0,
+    "RAW_NAME": "BACTIMAX 7.5GM",
+    "MAPPED_NAME": "BACTIMAX 7.5 GM",
+    "ITEM_CODE": "6143",
+    "MEDICINE_TYPE": "CREAM",
+    "QUANTITY": "798",
+    "MATCH_SCORE": 95.07,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "13.wav",
+    "POSITION": 1,
+    "RAW_NAME": "BACTIREST",
+    "MAPPED_NAME": "BACTIREST",
+    "ITEM_CODE": "7430",
+    "MEDICINE_TYPE": "CREAM",
+    "QUANTITY": "897",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "13.wav",
+    "POSITION": 2,
+    "RAW_NAME": "BACTIREST M",
+    "MAPPED_NAME": "BACTIREST",
+    "ITEM_CODE": "7430",
+    "MEDICINE_TYPE": "CREAM",
+    "QUANTITY": "996",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "13.wav",
+    "POSITION": 3,
+    "RAW_NAME": "BACTOCLAVE",
+    "MAPPED_NAME": "BACTOCLAV",
+    "ITEM_CODE": "5521",
+    "MEDICINE_TYPE": "ANTIBIOTIC DROPS",
+    "QUANTITY": "1095",
+    "MATCH_SCORE": 96.84,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "13.wav",
+    "POSITION": 4,
+    "RAW_NAME": "BACTOCLAVE 1.2G",
+    "MAPPED_NAME": "BACTOCLAV 1.2 G",
+    "ITEM_CODE": "2195",
+    "MEDICINE_TYPE": "INJUCTION",
+    "QUANTITY": "1194",
+    "MATCH_SCORE": 89.33,
+    "SOURCE": "FUZZY"
+  }
+]

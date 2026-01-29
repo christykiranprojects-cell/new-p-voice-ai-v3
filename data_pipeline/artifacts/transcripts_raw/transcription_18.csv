@@ -1,0 +1,6 @@
+file_name,segment_id,start_time_sec,end_time_sec,duration_sec,raw_transcript,language,audio_path,run_id
+18.wav,0,0.0,10.0,10.0,Caffeine 150 ml Shampoo 4,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\18.wav,run_20260126_213627
+18.wav,1,10.0,16.0,6.0,Cakex Tablet 6,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\18.wav,run_20260126_213627
+18.wav,2,16.0,20.0,4.0,Caelb Tablet 7,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\18.wav,run_20260126_213627
+18.wav,3,20.0,24.0,4.0,Calbond Milk 250 ml Tablet 3,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\18.wav,run_20260126_213627
+18.wav,4,24.0,30.0,6.0,Calcase XT Tablet 1,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\18.wav,run_20260126_213627

@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "BACTIMAX 7.5GM CREAM 798",
+    "raw_name": "BACTIMAX 7.5GM",
+    "raw_form": "CREAM",
+    "raw_quantity": "798",
+    "boundary_confident": true,
+    "file_name": "13.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "BACTIREST CREAM 897",
+    "raw_name": "BACTIREST",
+    "raw_form": "CREAM",
+    "raw_quantity": "897",
+    "boundary_confident": true,
+    "file_name": "13.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "BACTIREST M CREAM 996",
+    "raw_name": "BACTIREST M",
+    "raw_form": "CREAM",
+    "raw_quantity": "996",
+    "boundary_confident": true,
+    "file_name": "13.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "BACTOCLAVE ANTIBIOTIC DROPS 1095",
+    "raw_name": "BACTOCLAVE",
+    "raw_form": "ANTIBIOTIC_DROPS",
+    "raw_quantity": "1095",
+    "boundary_confident": true,
+    "file_name": "13.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "BACTOCLAVE 1.2G INJECTION 1194",
+    "raw_name": "BACTOCLAVE 1.2G",
+    "raw_form": "INJECTION",
+    "raw_quantity": "1194",
+    "boundary_confident": true,
+    "file_name": "13.wav"
+  }
+]

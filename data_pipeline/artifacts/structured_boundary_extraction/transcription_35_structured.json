@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "DEPA 1 L 10 PLUS 5 MG TABLET 4",
+    "raw_name": "DEPA 1 L 10 PLUS 5 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "4",
+    "boundary_confident": true,
+    "file_name": "35.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "DEPA 1 M 10 SLASH 1000 TABLET 6",
+    "raw_name": "DEPA 1 M 10 SLASH 1000",
+    "raw_form": "TABLET",
+    "raw_quantity": "6",
+    "boundary_confident": true,
+    "file_name": "35.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "DEPA 1 M 10 SLASH 500 TABLET 7",
+    "raw_name": "DEPA 1 M 10 SLASH 500",
+    "raw_form": "TABLET",
+    "raw_quantity": "7",
+    "boundary_confident": true,
+    "file_name": "35.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "DEPA 1 M 5 SLASH 1000 TABLET 3",
+    "raw_name": "DEPA 1 M 5 SLASH 1000",
+    "raw_form": "TABLET",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "35.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "DEPA 1 M 5 SLASH 500 TABLET 1",
+    "raw_name": "DEPA 1 M 5 SLASH 500",
+    "raw_form": "TABLET",
+    "raw_quantity": "1",
+    "boundary_confident": true,
+    "file_name": "35.wav"
+  }
+]

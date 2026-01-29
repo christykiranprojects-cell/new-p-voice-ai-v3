@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "ANTICOL 2 MG TABLET 4",
+    "raw_name": "ANTICOL 2 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "4",
+    "boundary_confident": true,
+    "file_name": "7.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "ANTITHYROX 10 MG TABLET 2",
+    "raw_name": "ANTITHYROX 10 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "7.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "ANTITHYROX 20 MG TABLET 5",
+    "raw_name": "ANTITHYROX 20 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "5",
+    "boundary_confident": true,
+    "file_name": "7.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "ANTITHYROX 5 MG TABLET 3",
+    "raw_name": "ANTITHYROX 5 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "7.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "ANTOXYL PHOTO CAPSULE 1",
+    "raw_name": "ANTOXYL PHOTO",
+    "raw_form": "CAPSULE",
+    "raw_quantity": "1",
+    "boundary_confident": true,
+    "file_name": "7.wav"
+  }
+]

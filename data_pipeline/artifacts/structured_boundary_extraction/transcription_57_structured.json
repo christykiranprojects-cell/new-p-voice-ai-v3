@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "ULTIGUARD CAPSULE 36",
+    "raw_name": "ULTIGUARD",
+    "raw_form": "CAPSULE",
+    "raw_quantity": "36",
+    "boundary_confident": true,
+    "file_name": "57.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "AN IBROM , IDROPS , 353",
+    "raw_name": "ANIBROM ,",
+    "raw_form": "EYE DROPS",
+    "raw_quantity": "353",
+    "boundary_confident": true,
+    "file_name": "57.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "UNICONTEN , 400 , MG , TABLET , 345",
+    "raw_name": "UNICONTEN , 400 , MG ,",
+    "raw_form": "TABLET",
+    "raw_quantity": "345",
+    "boundary_confident": true,
+    "file_name": "57.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "UNICONTEN , 600 , MG , TABLET , 2",
+    "raw_name": "UNICONTEN , 600 , MG ,",
+    "raw_form": "TABLET",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "57.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "AN IDEP , SR , 150 , TABLET , 25.",
+    "raw_name": "ANIDEP , SR , 150 ,",
+    "raw_form": "TABLET",
+    "raw_quantity": "25",
+    "boundary_confident": true,
+    "file_name": "57.wav"
+  }
+]

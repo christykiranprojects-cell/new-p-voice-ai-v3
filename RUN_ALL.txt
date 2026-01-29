@@ -1,0 +1,31 @@
+& d:\new_p_voice_ai_v3\.venv\Scripts\Activate.ps1
+
+RUNNERS: 
+
+# PRE-PHASE A : 
+python -m data_pipeline.audio_quality_matrix.run_audio_quality_matrix
+OR 
+python data_pipeline\run_audio_quality_matrix.py
+
+python -m data_pipeline.audio_quality_matrix.plot_lufs_quality_corridor
+OR 
+python data_pipeline\plot_lufs_quality_corridor.py
+
+# PHASE A : AUDIO PRE-PROCESSING USING LIBROSA
+python -m data_pipeline.run_phase_A
+
+# PHASE B: TRANSCRIBE
+# Phase B: Here we are execution controller agent loads the model and transcript
+python python_main.py
+
+# PHASE C: STRUCTURED BOUNDARIES
+python -m data_pipeline.phase_C_structured_boundary_extraction.run_phase_C
+
+# PHASE D: FUZZY MAPPER 
+python -m data_pipeline.phase_D_fuzzy_canonical_mapping.run_phase_D
+
+# PHASE E: EVALUATION MATRIX [FUZZY]
+python -m data_pipeline.phase_E_evaluation_audit.run_phase_E
+
+python -m data_pipeline.audio_quality_matrix.run_audio_quality_matrix
+python -m data_pipeline.audio_quality_matrix.plot_lufs_quality_corridor

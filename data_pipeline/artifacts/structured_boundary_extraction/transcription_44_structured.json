@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "ECHOSPRIN GOLD 1040 CAPSULE 6",
+    "raw_name": "ECHOSPRIN GOLD 1040",
+    "raw_form": "CAPSULE",
+    "raw_quantity": "6",
+    "boundary_confident": true,
+    "file_name": "44.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "ECHOSPRIN GOLD 20 CAPSULE 8",
+    "raw_name": "ECHOSPRIN GOLD 20",
+    "raw_form": "CAPSULE",
+    "raw_quantity": "8",
+    "boundary_confident": true,
+    "file_name": "44.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "ECHOSPRIN 150 TABLET 5",
+    "raw_name": "ECHOSPRIN 150",
+    "raw_form": "TABLET",
+    "raw_quantity": "5",
+    "boundary_confident": true,
+    "file_name": "44.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "ECHOSPRIN 325 TABLET 3",
+    "raw_name": "ECHOSPRIN 325",
+    "raw_form": "TABLET",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "44.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "ECHOSPRIN 75 TABLET 2.",
+    "raw_name": "ECHOSPRIN 75",
+    "raw_form": "TABLET",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "44.wav"
+  }
+]

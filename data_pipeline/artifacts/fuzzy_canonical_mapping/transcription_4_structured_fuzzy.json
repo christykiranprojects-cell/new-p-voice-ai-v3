@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "4.wav",
+    "POSITION": 0,
+    "RAW_NAME": "ANGITER 2.6",
+    "MAPPED_NAME": "ANGITHER 2.6",
+    "ITEM_CODE": "VT19",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "2",
+    "MATCH_SCORE": 93.75,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "4.wav",
+    "POSITION": 1,
+    "RAW_NAME": "ANGES ARE 25",
+    "MAPPED_NAME": "ANGIZAAR 25",
+    "ITEM_CODE": "MIANG3",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 67.19,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "4.wav",
+    "POSITION": 2,
+    "RAW_NAME": "ANGES ARE 50 MG",
+    "MAPPED_NAME": "ANGIZAAR 50 MG",
+    "ITEM_CODE": "MIANG2",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 74.09,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "4.wav",
+    "POSITION": 3,
+    "RAW_NAME": "ANGES ARE 80",
+    "MAPPED_NAME": "ANGIFREE 20 MG",
+    "ITEM_CODE": 3938,
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "2",
+    "MATCH_SCORE": 56.66,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "4.wav",
+    "POSITION": 4,
+    "RAW_NAME": "ANGES ARE H",
+    "MAPPED_NAME": "ANGIZAAR H",
+    "ITEM_CODE": "MIANG1",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "4",
+    "MATCH_SCORE": 64.0,
+    "SOURCE": "FUZZY"
+  }
+]

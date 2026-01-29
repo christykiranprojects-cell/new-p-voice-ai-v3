@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "OFFROL S TABLET 6",
+    "raw_name": "OFFROL S",
+    "raw_form": "TABLET",
+    "raw_quantity": "6",
+    "boundary_confident": true,
+    "file_name": "55.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "UFA SYRUP 8",
+    "raw_name": "UFA",
+    "raw_form": "SYRUP",
+    "raw_quantity": "8",
+    "boundary_confident": true,
+    "file_name": "55.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "UFA TAB TABLET 23",
+    "raw_name": "UFA",
+    "raw_form": "TABLET",
+    "raw_quantity": "23",
+    "boundary_confident": true,
+    "file_name": "55.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "OOGZEN 600 , MG INJECTION 700",
+    "raw_name": "OOGZEN 600 , MG",
+    "raw_form": "INJECTION",
+    "raw_quantity": "700",
+    "boundary_confident": true,
+    "file_name": "55.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "ULCAN TABLET 205.",
+    "raw_name": "ULCAN",
+    "raw_form": "TABLET",
+    "raw_quantity": "205",
+    "boundary_confident": true,
+    "file_name": "55.wav"
+  }
+]

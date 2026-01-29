@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "19.wav",
+    "POSITION": 0,
+    "RAW_NAME": "CALCHECK 2.5 MG",
+    "MAPPED_NAME": "CALCHEK 2.5 MG",
+    "ITEM_CODE": "5606",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "2",
+    "MATCH_SCORE": 95.07,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "19.wav",
+    "POSITION": 1,
+    "RAW_NAME": "CALCHECK 5 MG",
+    "MAPPED_NAME": "CALCHEK 5 MG",
+    "ITEM_CODE": "5742",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 94.27,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "19.wav",
+    "POSITION": 2,
+    "RAW_NAME": "CALCHECK L 2.5 MG",
+    "MAPPED_NAME": "CALCHEK L 2.5 MG",
+    "ITEM_CODE": "5607",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 95.68,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "19.wav",
+    "POSITION": 3,
+    "RAW_NAME": "CALCHECK L 5 MG",
+    "MAPPED_NAME": "CALCHEK L 5 MG",
+    "ITEM_CODE": "5608",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "2",
+    "MATCH_SCORE": 95.07,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "19.wav",
+    "POSITION": 4,
+    "RAW_NAME": "CALCHECK T 40 MG",
+    "MAPPED_NAME": "CALCHEK T 40 MG",
+    "ITEM_CODE": "7140",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "4",
+    "MATCH_SCORE": 95.4,
+    "SOURCE": "FUZZY"
+  }
+]

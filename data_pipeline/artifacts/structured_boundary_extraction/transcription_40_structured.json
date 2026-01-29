@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "EBAST O DT TABLET 2",
+    "raw_name": "EBAST O DT",
+    "raw_form": "TABLET",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "40.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "EBERFUN 30 GM TABLET 3",
+    "raw_name": "EBERFUN 30 GM",
+    "raw_form": "TABLET",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "40.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "EBOSET 10 MG TABLET 3",
+    "raw_name": "EBOSET 10 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "40.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "ABUXO 40 MG TABLET 2",
+    "raw_name": "ABUXO 40 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "40.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "ABUXO 80 TABLET 4",
+    "raw_name": "ABUXO 80",
+    "raw_form": "TABLET",
+    "raw_quantity": "4",
+    "boundary_confident": true,
+    "file_name": "40.wav"
+  }
+]

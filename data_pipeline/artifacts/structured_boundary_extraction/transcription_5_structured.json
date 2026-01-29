@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "ANGELEITE 2.6 TABLET 2",
+    "raw_name": "ANGELEITE 2.6",
+    "raw_form": "TABLET",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "5.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "ANORELPH CREAM 6",
+    "raw_name": "ANORELPH",
+    "raw_form": "CREAM",
+    "raw_quantity": "6",
+    "boundary_confident": true,
+    "file_name": "5.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "ANOSTICK CREAM 4",
+    "raw_name": "ANOSTICK",
+    "raw_form": "CREAM",
+    "raw_quantity": "4",
+    "boundary_confident": true,
+    "file_name": "5.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "ANOVATE 20 GM OINTMENT 6",
+    "raw_name": "ANOVATE 20 GM",
+    "raw_form": "OINTMENT",
+    "raw_quantity": "6",
+    "boundary_confident": true,
+    "file_name": "5.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "AND PROX TABLET 8",
+    "raw_name": "ANDPROX",
+    "raw_form": "TABLET",
+    "raw_quantity": "8",
+    "boundary_confident": true,
+    "file_name": "5.wav"
+  }
+]

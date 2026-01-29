@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "BACTOCLAVE 375 TABLET 1788",
+    "raw_name": "BACTOCLAVE 375",
+    "raw_form": "TABLET",
+    "raw_quantity": "1788",
+    "boundary_confident": true,
+    "file_name": "15.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "BACTOCLAVE 600 MG INJECTION 1887",
+    "raw_name": "BACTOCLAVE 600 MG",
+    "raw_form": "INJECTION",
+    "raw_quantity": "1887",
+    "boundary_confident": true,
+    "file_name": "15.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "BACTOCLAVE 625 TABLET 1986",
+    "raw_name": "BACTOCLAVE 625",
+    "raw_form": "TABLET",
+    "raw_quantity": "1986",
+    "boundary_confident": true,
+    "file_name": "15.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "BACTOCLAVE DDS 30 ML SYRUP 2085",
+    "raw_name": "BACTOCLAVE DDS 30",
+    "raw_form": "SYRUP",
+    "raw_quantity": "2085",
+    "boundary_confident": true,
+    "file_name": "15.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "BACTOCLAVE DS 457 COMP PACK 60 ML DRY SYRUP 2184",
+    "raw_name": "BACTOCLAVE DS 457 COMP PACK 60",
+    "raw_form": "DRY SYRUP",
+    "raw_quantity": "2184",
+    "boundary_confident": true,
+    "file_name": "15.wav"
+  }
+]

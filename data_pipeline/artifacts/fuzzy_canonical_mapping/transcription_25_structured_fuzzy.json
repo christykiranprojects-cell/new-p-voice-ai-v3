@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "25.wav",
+    "POSITION": 0,
+    "RAW_NAME": "D AGIO M 500",
+    "MAPPED_NAME": "DAJIO M 500",
+    "ITEM_CODE": "MI42",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "187",
+    "MATCH_SCORE": 81.24,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "25.wav",
+    "POSITION": 1,
+    "RAW_NAME": "DANCLEAR 50",
+    "MAPPED_NAME": "DANCLEAR 50 ML",
+    "ITEM_CODE": "CAD33",
+    "MEDICINE_TYPE": "SHAMPOO ",
+    "QUANTITY": "123",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "25.wav",
+    "POSITION": 2,
+    "RAW_NAME": "DANCLEAR 90",
+    "MAPPED_NAME": "DANCLEAR 90 ML",
+    "ITEM_CODE": "CAD34",
+    "MEDICINE_TYPE": "SHAMPOO",
+    "QUANTITY": "8",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "25.wav",
+    "POSITION": 3,
+    "RAW_NAME": "DANCOM 60",
+    "MAPPED_NAME": "DANCOM 60 ML",
+    "ITEM_CODE": "8148",
+    "MEDICINE_TYPE": "SHAMPOO",
+    "QUANTITY": "47",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "25.wav",
+    "POSITION": 4,
+    "RAW_NAME": "D AGIO M 500",
+    "MAPPED_NAME": "DAJIO M 500",
+    "ITEM_CODE": "MI42",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "5",
+    "MATCH_SCORE": 81.24,
+    "SOURCE": "FUZZY"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "D AGIO M 500 TABLET 187",
+    "raw_name": "DAGIO M 500",
+    "raw_form": "TABLET",
+    "raw_quantity": "187",
+    "boundary_confident": true,
+    "file_name": "25.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "DANCLEAR 50 ML SHAMPOO 123",
+    "raw_name": "DANCLEAR 50",
+    "raw_form": "SHAMPOO",
+    "raw_quantity": "123",
+    "boundary_confident": true,
+    "file_name": "25.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "DANCLEAR 90 ML SHAMPOO 8",
+    "raw_name": "DANCLEAR 90",
+    "raw_form": "SHAMPOO",
+    "raw_quantity": "8",
+    "boundary_confident": true,
+    "file_name": "25.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "DANCOM 60 ML SHAMPOO 47",
+    "raw_name": "DANCOM 60",
+    "raw_form": "SHAMPOO",
+    "raw_quantity": "47",
+    "boundary_confident": true,
+    "file_name": "25.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "D AGIO M 500 TABLET 5",
+    "raw_name": "DAGIO M 500",
+    "raw_form": "TABLET",
+    "raw_quantity": "5",
+    "boundary_confident": true,
+    "file_name": "25.wav"
+  }
+]

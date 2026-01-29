@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "3.wav",
+    "POSITION": 0,
+    "RAW_NAME": "ANGEFREE SR30MG",
+    "MAPPED_NAME": "ANGIFREE SR 30 MG",
+    "ITEM_CODE": 3939,
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "4",
+    "MATCH_SCORE": 70.6,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "3.wav",
+    "POSITION": 1,
+    "RAW_NAME": "ANGEPLAT 2.5",
+    "MAPPED_NAME": "ANGIPLAT 2.5",
+    "ITEM_CODE": 4534,
+    "MEDICINE_TYPE": "CAPSULE",
+    "QUANTITY": "6",
+    "MATCH_SCORE": 91.67,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "3.wav",
+    "POSITION": 2,
+    "RAW_NAME": "ANGEPLATE 6.5",
+    "MAPPED_NAME": "ANGIPLAT 6.5",
+    "ITEM_CODE": 4535,
+    "MEDICINE_TYPE": "CAPSULE",
+    "QUANTITY": "7",
+    "MATCH_SCORE": 86.13,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "3.wav",
+    "POSITION": 3,
+    "RAW_NAME": "ANGESPAIN TR 2.5",
+    "MAPPED_NAME": "ANGISPAN TR 2.5",
+    "ITEM_CODE": "USANG1",
+    "MEDICINE_TYPE": "CAPSULE",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 88.86,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "3.wav",
+    "POSITION": 4,
+    "RAW_NAME": "ANGESPAIN TR 6.5",
+    "MAPPED_NAME": "ANGISPAN TR 6.5",
+    "ITEM_CODE": "USANG2",
+    "MEDICINE_TYPE": "CAPSULE",
+    "QUANTITY": "1",
+    "MATCH_SCORE": 88.86,
+    "SOURCE": "FUZZY"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "29.wav",
+    "POSITION": 0,
+    "RAW_NAME": "DEPALEX S 5 100 MG",
+    "MAPPED_NAME": "DAPALEX S 5 / 100 MG",
+    "ITEM_CODE": "AJ80",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "5",
+    "MATCH_SCORE": 89.24,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "29.wav",
+    "POSITION": 1,
+    "RAW_NAME": "DEPALEX SM 10 100 500 MG",
+    "MAPPED_NAME": "DAPALEX SM 10 / 100 / 500 MG",
+    "ITEM_CODE": "AJ83",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 88.53,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "29.wav",
+    "POSITION": 2,
+    "RAW_NAME": "DEPALEX SM 10",
+    "MAPPED_NAME": "DAPALEX 10 MG",
+    "ITEM_CODE": "AJ27",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "2",
+    "MATCH_SCORE": 82.07,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "29.wav",
+    "POSITION": 3,
+    "RAW_NAME": "DEPALEX SM 5",
+    "MAPPED_NAME": "DAPALEX M 500",
+    "ITEM_CODE": "AJ34",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "1",
+    "MATCH_SCORE": 82.78,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "29.wav",
+    "POSITION": 4,
+    "RAW_NAME": "DEPALEX SML",
+    "MAPPED_NAME": "DAPALEX M 500",
+    "ITEM_CODE": "AJ34",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "6",
+    "MATCH_SCORE": 72.0,
+    "SOURCE": "FUZZY"
+  }
+]

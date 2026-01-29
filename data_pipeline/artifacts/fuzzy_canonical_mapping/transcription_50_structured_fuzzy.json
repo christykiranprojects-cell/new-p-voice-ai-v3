@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "50.wav",
+    "POSITION": 0,
+    "RAW_NAME": "ELECTROL ORANGE 200",
+    "MAPPED_NAME": "ELECTRAL ORANGE 200 ML",
+    "ITEM_CODE": "DC3",
+    "MEDICINE_TYPE": "SYRUP",
+    "QUANTITY": "4",
+    "MATCH_SCORE": 90.58,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "50.wav",
+    "POSITION": 1,
+    "RAW_NAME": "ELECTROL 21.8 GM",
+    "MAPPED_NAME": "ELECTRAL 21.8 GM",
+    "ITEM_CODE": "DC132",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "2",
+    "MATCH_SCORE": 93.75,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "50.wav",
+    "POSITION": 2,
+    "RAW_NAME": "ELECTROL 4.4 GM",
+    "MAPPED_NAME": "ELECTRAL 4.4 GM",
+    "ITEM_CODE": "DC133",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "6",
+    "MATCH_SCORE": 93.33,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "50.wav",
+    "POSITION": 3,
+    "RAW_NAME": "ELECTROL ORANGE 21.8 GM",
+    "MAPPED_NAME": "ELECTRAL ORANGE 21.8 GM",
+    "ITEM_CODE": "DC135",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "4",
+    "MATCH_SCORE": 95.65,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "50.wav",
+    "POSITION": 4,
+    "RAW_NAME": "ELECTROL ORANGE 4.4 GM",
+    "MAPPED_NAME": "ELECTRAL ORANGE 4.4 GM",
+    "ITEM_CODE": "DC134",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "6",
+    "MATCH_SCORE": 95.45,
+    "SOURCE": "FUZZY"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "position": 0,
+    "text_span": "UNIPUFF FG TABLET 3333",
+    "raw_name": "UNIPUFF FG",
+    "raw_form": "TABLET",
+    "raw_quantity": "3333",
+    "boundary_confident": true,
+    "file_name": "62.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "UNITAXIM 250 MG TABLET 3335",
+    "raw_name": "UNITAXIM 250 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "3335",
+    "boundary_confident": true,
+    "file_name": "62.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "UNITAXIM 500 MG TABLET 255",
+    "raw_name": "UNITAXIM 500 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "255",
+    "boundary_confident": true,
+    "file_name": "62.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "UNIZA A TABLET 2225",
+    "raw_name": "UNIZA A",
+    "raw_form": "TABLET",
+    "raw_quantity": "2225",
+    "boundary_confident": true,
+    "file_name": "62.wav"
+  }
+]

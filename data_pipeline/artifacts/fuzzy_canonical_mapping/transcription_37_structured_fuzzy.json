@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "37.wav",
+    "POSITION": 0,
+    "RAW_NAME": "DARBOSIS 25",
+    "MAPPED_NAME": "DARBOSIS 25",
+    "ITEM_CODE": "8145",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "2",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "37.wav",
+    "POSITION": 1,
+    "RAW_NAME": "DARBOSIS 40",
+    "MAPPED_NAME": "DARBOSIS 40",
+    "ITEM_CODE": "8146",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "6",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "37.wav",
+    "POSITION": 2,
+    "RAW_NAME": "DAROLAC",
+    "MAPPED_NAME": "DAROLAC",
+    "ITEM_CODE": "AR89",
+    "MEDICINE_TYPE": "CAPSULE",
+    "QUANTITY": "4",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "37.wav",
+    "POSITION": 3,
+    "RAW_NAME": "DAROLAC MINI",
+    "MAPPED_NAME": "DAROLAC",
+    "ITEM_CODE": "AR89",
+    "MEDICINE_TYPE": "CAPSULE",
+    "QUANTITY": "6",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "37.wav",
+    "POSITION": 4,
+    "RAW_NAME": "DAROLAC",
+    "MAPPED_NAME": "DAROLAC",
+    "ITEM_CODE": "AR89",
+    "MEDICINE_TYPE": "CAPSULE",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  }
+]

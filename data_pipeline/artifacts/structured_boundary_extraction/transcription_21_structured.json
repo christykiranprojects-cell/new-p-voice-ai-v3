@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "CALC WAVE , CORAL , TABLET 5",
+    "raw_name": "CALCWAVE , CORAL ,",
+    "raw_form": "TABLET",
+    "raw_quantity": "5",
+    "boundary_confident": true,
+    "file_name": "21.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "CALC WORTH , CAPSULE 3",
+    "raw_name": "CALCWORTH ,",
+    "raw_form": "CAPSULE",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "21.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "CALC 6 , TABLET 2",
+    "raw_name": "CALC 6 ,",
+    "raw_form": "TABLET",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "21.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "CALC ON STAR , D 3 , TABLET 1",
+    "raw_name": "CALCON STAR , D 3 ,",
+    "raw_form": "TABLET",
+    "raw_quantity": "1",
+    "boundary_confident": true,
+    "file_name": "21.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "CALCULATE , TABLET 6",
+    "raw_name": "CALCULATE ,",
+    "raw_form": "TABLET",
+    "raw_quantity": "6",
+    "boundary_confident": true,
+    "file_name": "21.wav"
+  }
+]

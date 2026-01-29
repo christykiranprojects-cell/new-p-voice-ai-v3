@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "15.wav",
+    "POSITION": 0,
+    "RAW_NAME": "BACTOCLAVE 375",
+    "MAPPED_NAME": "BACTOCLAV 375",
+    "ITEM_CODE": "353",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "1788",
+    "MATCH_SCORE": 94.7,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "15.wav",
+    "POSITION": 1,
+    "RAW_NAME": "BACTOCLAVE 600 MG",
+    "MAPPED_NAME": "BACTOCLAV 600 MG",
+    "ITEM_CODE": "3895",
+    "MEDICINE_TYPE": "INJUCTION",
+    "QUANTITY": "1887",
+    "MATCH_SCORE": 95.68,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "15.wav",
+    "POSITION": 2,
+    "RAW_NAME": "BACTOCLAVE 625",
+    "MAPPED_NAME": "BACTOCLAV 625",
+    "ITEM_CODE": "352",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "1986",
+    "MATCH_SCORE": 94.7,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "15.wav",
+    "POSITION": 3,
+    "RAW_NAME": "BACTOCLAVE DDS 30",
+    "MAPPED_NAME": "BACTOCLAV DDS 30 ML",
+    "ITEM_CODE": "3772",
+    "MEDICINE_TYPE": "SYRUP",
+    "QUANTITY": "2085",
+    "MATCH_SCORE": 92.12,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "15.wav",
+    "POSITION": 4,
+    "RAW_NAME": "BACTOCLAVE DS 457 COMP PACK 60",
+    "MAPPED_NAME": "BACTOCLAV DS 457 COMP PACK 60 ML",
+    "ITEM_CODE": "MI178",
+    "MEDICINE_TYPE": "DRY SYRUP",
+    "QUANTITY": "2184",
+    "MATCH_SCORE": 95.45,
+    "SOURCE": "FUZZY"
+  }
+]

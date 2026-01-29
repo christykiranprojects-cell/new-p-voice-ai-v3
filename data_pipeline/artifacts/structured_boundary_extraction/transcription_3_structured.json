@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "ANGEFREE SR30MG TABLET 4",
+    "raw_name": "ANGEFREE SR30MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "4",
+    "boundary_confident": true,
+    "file_name": "3.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "ANGEPLAT 2.5 CAPSULE 6",
+    "raw_name": "ANGEPLAT 2.5",
+    "raw_form": "CAPSULE",
+    "raw_quantity": "6",
+    "boundary_confident": true,
+    "file_name": "3.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "ANGEPLATE 6.5 CAPSULE 7",
+    "raw_name": "ANGEPLATE 6.5",
+    "raw_form": "CAPSULE",
+    "raw_quantity": "7",
+    "boundary_confident": true,
+    "file_name": "3.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "ANGESPAIN TR 2.5 CAPSULE 3",
+    "raw_name": "ANGESPAIN TR 2.5",
+    "raw_form": "CAPSULE",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "3.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "ANGESPAIN TR 6.5 CAPSULE 1",
+    "raw_name": "ANGESPAIN TR 6.5",
+    "raw_form": "CAPSULE",
+    "raw_quantity": "1",
+    "boundary_confident": true,
+    "file_name": "3.wav"
+  }
+]

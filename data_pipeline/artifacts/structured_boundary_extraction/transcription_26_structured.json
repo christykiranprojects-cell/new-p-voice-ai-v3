@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "DINOLEAL MXR TABLET 25",
+    "raw_name": "DINOLEAL MXR",
+    "raw_form": "TABLET",
+    "raw_quantity": "25",
+    "boundary_confident": true,
+    "file_name": "26.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "DEPAFLEX 10 TABLET 45",
+    "raw_name": "DEPAFLEX 10",
+    "raw_form": "TABLET",
+    "raw_quantity": "45",
+    "boundary_confident": true,
+    "file_name": "26.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "DEPAFLEX M 10 SLASH 1000 MG TABLET 48",
+    "raw_name": "DEPAFLEX M 10 SLASH 1000 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "48",
+    "boundary_confident": true,
+    "file_name": "26.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "DEPAFLEX M 10 SLASH 500 MG TABLET 49",
+    "raw_name": "DEPAFLEX M 10 SLASH 500 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "49",
+    "boundary_confident": true,
+    "file_name": "26.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "DEPAFLEX S 10 SLASH 100 TABLET 15",
+    "raw_name": "DEPAFLEX S 10 SLASH 100",
+    "raw_form": "TABLET",
+    "raw_quantity": "15",
+    "boundary_confident": true,
+    "file_name": "26.wav"
+  }
+]

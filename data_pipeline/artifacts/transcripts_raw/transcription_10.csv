@@ -1,0 +1,4 @@
+file_name,segment_id,start_time_sec,end_time_sec,duration_sec,raw_transcript,language,audio_path,run_id
+10.wav,0,0.0,9.92,9.92,ANZIT 1MG Tablet 9 ANZIT 1SR Tablet 187,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\10.wav,run_20260126_212222
+10.wav,1,9.92,20.92,11.000000000000002,ANZUREST P Tablet 123 APACE TH Tablet 8,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\10.wav,run_20260126_212222
+10.wav,2,20.92,26.8,5.879999999999999,APALX 5MG Tablet 47,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\10.wav,run_20260126_212222

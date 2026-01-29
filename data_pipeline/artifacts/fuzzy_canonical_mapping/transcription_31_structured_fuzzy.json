@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "31.wav",
+    "POSITION": 0,
+    "RAW_NAME": "DEPA MAC TRIO 500 MG",
+    "MAPPED_NAME": "DAPAMAC TRIO 500 MG",
+    "ITEM_CODE": "MACL116",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "2",
+    "MATCH_SCORE": 92.14,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "31.wav",
+    "POSITION": 1,
+    "RAW_NAME": "DEPA MAC V 10 100",
+    "MAPPED_NAME": "DAPAMAC V 10 / 100",
+    "ITEM_CODE": "MACL89",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "1",
+    "MATCH_SCORE": 85.37,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "31.wav",
+    "POSITION": 2,
+    "RAW_NAME": "DEPA MAC V 5 100",
+    "MAPPED_NAME": "DAPAMAC V 5 / 100",
+    "ITEM_CODE": "MACL88",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "1",
+    "MATCH_SCORE": 84.46,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "31.wav",
+    "POSITION": 3,
+    "RAW_NAME": "DEPA NOVA 10",
+    "MAPPED_NAME": "DAPANOVA 10",
+    "ITEM_CODE": "ME27",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "4",
+    "MATCH_SCORE": 86.46,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "31.wav",
+    "POSITION": 4,
+    "RAW_NAME": "DEPA NOVA 5",
+    "MAPPED_NAME": "DAPANOVA 5",
+    "ITEM_CODE": "ME28",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "6",
+    "MATCH_SCORE": 85.11,
+    "SOURCE": "FUZZY"
+  }
+]

@@ -1,0 +1,6 @@
+file_name,segment_id,start_time_sec,end_time_sec,duration_sec,raw_transcript,language,audio_path,run_id
+27.wav,0,0.0,7.0,7.0,Depaflex S5-100 Tablet 2,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\27.wav,run_20260126_215948
+27.wav,1,7.0,16.0,9.0,Depaflex SM10-100-1000 Tablet 3,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\27.wav,run_20260126_215948
+27.wav,2,16.0,21.0,5.0,Depalex 10MG Tablet 3,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\27.wav,run_20260126_215948
+27.wav,3,21.0,25.0,4.0,Depalex 5MG Tablet 2,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\27.wav,run_20260126_215948
+27.wav,4,25.0,36.0,11.0,Depalex GM1-10-1-500MG Tablet 4,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\27.wav,run_20260126_215948

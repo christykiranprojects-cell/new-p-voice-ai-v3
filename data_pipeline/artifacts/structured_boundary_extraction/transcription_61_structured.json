@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "UNIPUF , SF , CAPSULE , 2225",
+    "raw_name": "UNIPUF , SF ,",
+    "raw_form": "CAPSULE",
+    "raw_quantity": "2225",
+    "boundary_confident": true,
+    "file_name": "61.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "UNIPUF , FB , 200 , CAPSULE , 2222",
+    "raw_name": "UNIPUF , FB , 200 ,",
+    "raw_form": "CAPSULE",
+    "raw_quantity": "2222",
+    "boundary_confident": true,
+    "file_name": "61.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "UNIPUF , FB , 400 , CAPSULE , 2222",
+    "raw_name": "UNIPUF , FB , 400 ,",
+    "raw_form": "CAPSULE",
+    "raw_quantity": "2222",
+    "boundary_confident": true,
+    "file_name": "61.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "UNIPUF , FB , CAPSULE , 222",
+    "raw_name": "UNIPUF , FB ,",
+    "raw_form": "CAPSULE",
+    "raw_quantity": "222",
+    "boundary_confident": true,
+    "file_name": "61.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "UNIPUF , FB , MDI , CAPSULE , 333.",
+    "raw_name": "UNIPUF , FB , MDI ,",
+    "raw_form": "CAPSULE",
+    "raw_quantity": "333",
+    "boundary_confident": true,
+    "file_name": "61.wav"
+  }
+]

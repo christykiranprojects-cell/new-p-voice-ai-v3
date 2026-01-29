@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "44.wav",
+    "POSITION": 0,
+    "RAW_NAME": "ECHOSPRIN GOLD 1040",
+    "MAPPED_NAME": "ECOSPRIN GOLD 10",
+    "ITEM_CODE": "1631",
+    "MEDICINE_TYPE": "CAPSULE",
+    "QUANTITY": "6",
+    "MATCH_SCORE": 92.36,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "44.wav",
+    "POSITION": 1,
+    "RAW_NAME": "ECHOSPRIN GOLD 20",
+    "MAPPED_NAME": "ECOSPRIN GOLD 20",
+    "ITEM_CODE": "3107",
+    "MEDICINE_TYPE": "CAPSULE",
+    "QUANTITY": "8",
+    "MATCH_SCORE": 95.68,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "44.wav",
+    "POSITION": 2,
+    "RAW_NAME": "ECHOSPRIN 150",
+    "MAPPED_NAME": "ECOSPRIN 150",
+    "ITEM_CODE": "USECO1",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "5",
+    "MATCH_SCORE": 94.27,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "44.wav",
+    "POSITION": 3,
+    "RAW_NAME": "ECHOSPRIN 325",
+    "MAPPED_NAME": "ECOSPRIN 325",
+    "ITEM_CODE": "US1",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 94.27,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "44.wav",
+    "POSITION": 4,
+    "RAW_NAME": "ECHOSPRIN 75",
+    "MAPPED_NAME": "ECOSPRIN 75",
+    "ITEM_CODE": "USECO2",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "2",
+    "MATCH_SCORE": 93.75,
+    "SOURCE": "FUZZY"
+  }
+]

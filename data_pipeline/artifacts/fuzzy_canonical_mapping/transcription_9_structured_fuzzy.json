@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "9.wav",
+    "POSITION": 0,
+    "RAW_NAME": "ANSYT 0.25",
+    "MAPPED_NAME": "ANXIT 0.25",
+    "ITEM_CODE": "MIANI2",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "25",
+    "MATCH_SCORE": 80.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "9.wav",
+    "POSITION": 1,
+    "RAW_NAME": "ANSYT 0.5",
+    "MAPPED_NAME": "ANXIT 0.5",
+    "ITEM_CODE": 1059,
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "5",
+    "MATCH_SCORE": 77.78,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "9.wav",
+    "POSITION": 2,
+    "RAW_NAME": "ANSYT FORTE",
+    "MAPPED_NAME": "ANXIT FORTE",
+    "ITEM_CODE": 329,
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "40",
+    "MATCH_SCORE": 81.82,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "9.wav",
+    "POSITION": 3,
+    "RAW_NAME": "ANSYT PLUS",
+    "MAPPED_NAME": "ANXIT PLUS",
+    "ITEM_CODE": "MIANX4",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "8",
+    "MATCH_SCORE": 80.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "9.wav",
+    "POSITION": 4,
+    "RAW_NAME": "ANSYT 0.5 SR",
+    "MAPPED_NAME": "ANXIT 0.5 SR",
+    "ITEM_CODE": "MIANX5",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 83.33,
+    "SOURCE": "FUZZY"
+  }
+]

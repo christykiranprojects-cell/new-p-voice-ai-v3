@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "6.wav",
+    "POSITION": 0,
+    "RAW_NAME": "UNKNOWN",
+    "MAPPED_NAME": "DAONIL",
+    "ITEM_CODE": "AVDAO1",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "5",
+    "MATCH_SCORE": 36.24,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "6.wav",
+    "POSITION": 1,
+    "RAW_NAME": "UNKNOWN",
+    "MAPPED_NAME": "DAONIL",
+    "ITEM_CODE": "AVDAO1",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 36.24,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "6.wav",
+    "POSITION": 2,
+    "RAW_NAME": "UNKNOWN",
+    "MAPPED_NAME": "DAONIL",
+    "ITEM_CODE": "AVDAO1",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "2",
+    "MATCH_SCORE": 36.24,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "6.wav",
+    "POSITION": 3,
+    "RAW_NAME": "UNKNOWN",
+    "MAPPED_NAME": "DAONIL",
+    "ITEM_CODE": "AVDAO1",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "1",
+    "MATCH_SCORE": 36.24,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "6.wav",
+    "POSITION": 4,
+    "RAW_NAME": "UNKNOWN",
+    "MAPPED_NAME": "DAONIL",
+    "ITEM_CODE": "AVDAO1",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "6",
+    "MATCH_SCORE": 36.24,
+    "SOURCE": "FUZZY"
+  }
+]

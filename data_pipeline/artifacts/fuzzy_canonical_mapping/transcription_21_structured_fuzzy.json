@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "21.wav",
+    "POSITION": 0,
+    "RAW_NAME": "CALC WAVE , CORAL ,",
+    "MAPPED_NAME": "CALCIWAVE COARL",
+    "ITEM_CODE": "INTRA4",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "5",
+    "MATCH_SCORE": 70.67,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "21.wav",
+    "POSITION": 1,
+    "RAW_NAME": "CALC WORTH ,",
+    "MAPPED_NAME": "CALCIWORTH",
+    "ITEM_CODE": "9044",
+    "MEDICINE_TYPE": "CAPSULE",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 90.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "21.wav",
+    "POSITION": 2,
+    "RAW_NAME": "CALC 6 ,",
+    "MAPPED_NAME": "CALCIX",
+    "ITEM_CODE": "8311",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "2",
+    "MATCH_SCORE": 72.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "21.wav",
+    "POSITION": 3,
+    "RAW_NAME": "CALC ON STAR , D 3 ,",
+    "MAPPED_NAME": "CALCONSTA D3",
+    "ITEM_CODE": "IP86",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "1",
+    "MATCH_SCORE": 69.88,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "21.wav",
+    "POSITION": 4,
+    "RAW_NAME": "CALCULATE ,",
+    "MAPPED_NAME": "CALCULATE",
+    "ITEM_CODE": "7361",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "6",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  }
+]

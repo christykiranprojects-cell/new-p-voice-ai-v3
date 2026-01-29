@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "BBC SYRUP 5",
+    "raw_name": "BBC",
+    "raw_form": "SYRUP",
+    "raw_quantity": "5",
+    "boundary_confident": true,
+    "file_name": "11.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "BBC TABLET 25",
+    "raw_name": "BBC",
+    "raw_form": "TABLET",
+    "raw_quantity": "25",
+    "boundary_confident": true,
+    "file_name": "11.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "BTC KIT TABLET 45",
+    "raw_name": "BTCKIT",
+    "raw_form": "TABLET",
+    "raw_quantity": "45",
+    "boundary_confident": true,
+    "file_name": "11.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "BAXILON CAPSULE 48",
+    "raw_name": "BAXILON",
+    "raw_form": "CAPSULE",
+    "raw_quantity": "48",
+    "boundary_confident": true,
+    "file_name": "11.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "BAXILON 5 ML PROBIOTIC LIQUID 49",
+    "raw_name": "BAXILON 5",
+    "raw_form": "PROBIOTIC LIQUID",
+    "raw_quantity": "49",
+    "boundary_confident": true,
+    "file_name": "11.wav"
+  }
+]

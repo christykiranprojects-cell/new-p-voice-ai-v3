@@ -1,0 +1,4 @@
+file_name,segment_id,start_time_sec,end_time_sec,duration_sec,raw_transcript,language,audio_path,run_id
+42.wav,0,0.0,8.8,8.8,ECOFLORA 30 Tablet 3 ECOFRESH Eye Drops 1,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\42.wav,run_20260126_223416
+42.wav,1,8.8,18.48,9.68,ECOSAFE Sachets 2 ECOSAFE Z Sachets 3,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\42.wav,run_20260126_223416
+42.wav,2,18.48,24.2,5.719999999999999,ECO-SMIN 30-75 Capsule 3,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\42.wav,run_20260126_223416

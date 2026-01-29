@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "ANIDEP , SR , 300 , MG , TABLET , 15",
+    "raw_name": "ANIDEP , SR , 300 , MG ,",
+    "raw_form": "TABLET",
+    "raw_quantity": "15",
+    "boundary_confident": true,
+    "file_name": "58.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "ANIDROF , 60 , ML , TABLET , 15",
+    "raw_name": "ANIDROF , 60 , ML ,",
+    "raw_form": "TABLET",
+    "raw_quantity": "15",
+    "boundary_confident": true,
+    "file_name": "58.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "UNIFIN , MR , TABLET , 24",
+    "raw_name": "UNIFIN , MR ,",
+    "raw_form": "TABLET",
+    "raw_quantity": "24",
+    "boundary_confident": true,
+    "file_name": "58.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "UNIFUSI , 15 , GM , TABLET , 54",
+    "raw_name": "UNIFUSI , 15 , GM ,",
+    "raw_form": "TABLET",
+    "raw_quantity": "54",
+    "boundary_confident": true,
+    "file_name": "58.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "UNIHYSI , 10 , TABLET , 5852",
+    "raw_name": "UNIHYSI , 10 ,",
+    "raw_form": "TABLET",
+    "raw_quantity": "5852",
+    "boundary_confident": true,
+    "file_name": "58.wav"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "UNIHYSC 25 TABLET 53",
+    "raw_name": "UNIHYSC 25",
+    "raw_form": "TABLET",
+    "raw_quantity": "53",
+    "boundary_confident": true,
+    "file_name": "59.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "UNILASTANE 2.5 TABLET 5",
+    "raw_name": "UNILASTANE 2.5",
+    "raw_form": "TABLET",
+    "raw_quantity": "5",
+    "boundary_confident": true,
+    "file_name": "59.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "UNILASTANE 20 TABLET 5258",
+    "raw_name": "UNILASTANE 20",
+    "raw_form": "TABLET",
+    "raw_quantity": "5258",
+    "boundary_confident": true,
+    "file_name": "59.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "UNILASTANE M TABLET 525",
+    "raw_name": "UNILASTANE M",
+    "raw_form": "TABLET",
+    "raw_quantity": "525",
+    "boundary_confident": true,
+    "file_name": "59.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "UNILAX TABLET 22",
+    "raw_name": "UNILAX",
+    "raw_form": "TABLET",
+    "raw_quantity": "22",
+    "boundary_confident": true,
+    "file_name": "59.wav"
+  }
+]

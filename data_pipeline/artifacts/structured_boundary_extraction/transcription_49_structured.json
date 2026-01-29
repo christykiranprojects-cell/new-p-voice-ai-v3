@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "LD3X4 TABLET 1",
+    "raw_name": "LD3X4",
+    "raw_form": "TABLET",
+    "raw_quantity": "1",
+    "boundary_confident": true,
+    "file_name": "49.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "ALDIXENT TABLET 4",
+    "raw_name": "ALDIXENT",
+    "raw_form": "TABLET",
+    "raw_quantity": "4",
+    "boundary_confident": true,
+    "file_name": "49.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "ELDOPER TABLET 6",
+    "raw_name": "ELDOPER",
+    "raw_form": "TABLET",
+    "raw_quantity": "6",
+    "boundary_confident": true,
+    "file_name": "49.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "ELECTROL APPLE 200 ML SYRUP 7",
+    "raw_name": "ELECTROL APPLE 200",
+    "raw_form": "SYRUP",
+    "raw_quantity": "7",
+    "boundary_confident": true,
+    "file_name": "49.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "ELECTROL MANGO 200 ML SYRUP 3",
+    "raw_name": "ELECTROL MANGO 200",
+    "raw_form": "SYRUP",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "49.wav"
+  }
+]

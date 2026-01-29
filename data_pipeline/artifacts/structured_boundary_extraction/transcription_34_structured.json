@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "DEPANOVA S 5 50 TABLET 4",
+    "raw_name": "DEPANOVA S 5 50",
+    "raw_form": "TABLET",
+    "raw_quantity": "4",
+    "boundary_confident": true,
+    "file_name": "34.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "DEPANOVA SM 1000 TABLET 6",
+    "raw_name": "DEPANOVA SM 1000",
+    "raw_form": "TABLET",
+    "raw_quantity": "6",
+    "boundary_confident": true,
+    "file_name": "34.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "DEPANOVA SM 500 TABLET 2",
+    "raw_name": "DEPANOVA SM 500",
+    "raw_form": "TABLET",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "34.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "DEPA 1 10 MG TABLET 1",
+    "raw_name": "DEPA 1 10 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "1",
+    "boundary_confident": true,
+    "file_name": "34.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "DEPA 1 5 MG TABLET 1",
+    "raw_name": "DEPA 1 5 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "1",
+    "boundary_confident": true,
+    "file_name": "34.wav"
+  }
+]

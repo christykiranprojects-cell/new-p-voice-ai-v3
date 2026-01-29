@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "ANXILOR 1 TABLET 1",
+    "raw_name": "ANXILOR 1",
+    "raw_form": "TABLET",
+    "raw_quantity": "1",
+    "boundary_confident": true,
+    "file_name": "8.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "ANXILOR 2 TABLET 1",
+    "raw_name": "ANXILOR 2",
+    "raw_form": "TABLET",
+    "raw_quantity": "1",
+    "boundary_confident": true,
+    "file_name": "8.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "ANXIPAN CAPSULE 3",
+    "raw_name": "ANXIPAN",
+    "raw_form": "CAPSULE",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "8.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "ANXIRAIL PLUS TABLET 4",
+    "raw_name": "ANXIRAIL PLUS",
+    "raw_form": "TABLET",
+    "raw_quantity": "4",
+    "boundary_confident": true,
+    "file_name": "8.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "ANXICERN TABLET 1000",
+    "raw_name": "ANXICERN",
+    "raw_form": "TABLET",
+    "raw_quantity": "1000",
+    "boundary_confident": true,
+    "file_name": "8.wav"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "FENAC AB TABLET 3",
+    "raw_name": "FENAC AB",
+    "raw_form": "TABLET",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "47.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "FLOBID 200 MG TABLET 3",
+    "raw_name": "FLOBID 200 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "47.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "FONTA 10 MG TABLET 2",
+    "raw_name": "FONTA 10 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "47.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "FONTA 20 MG TABLET 4",
+    "raw_name": "FONTA 20 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "4",
+    "boundary_confident": true,
+    "file_name": "47.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "FONTA T TABLET 2.",
+    "raw_name": "FONTA T",
+    "raw_form": "TABLET",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "47.wav"
+  }
+]

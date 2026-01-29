@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "10.wav",
+    "POSITION": 0,
+    "RAW_NAME": "ANZIT 1 MG",
+    "MAPPED_NAME": "ANXIT 1 MG",
+    "ITEM_CODE": "MIANX3",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "9",
+    "MATCH_SCORE": 90.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "10.wav",
+    "POSITION": 1,
+    "RAW_NAME": "ANZIT 1 SR",
+    "MAPPED_NAME": "ANXIT 1 SR",
+    "ITEM_CODE": 4968,
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "187",
+    "MATCH_SCORE": 90.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "10.wav",
+    "POSITION": 2,
+    "RAW_NAME": "ANZUREST P",
+    "MAPPED_NAME": "ANZOREST P",
+    "ITEM_CODE": 7826,
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "123",
+    "MATCH_SCORE": 90.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "10.wav",
+    "POSITION": 3,
+    "RAW_NAME": "APACE TH",
+    "MAPPED_NAME": "APACE TH",
+    "ITEM_CODE": "AJ28",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "8",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "10.wav",
+    "POSITION": 4,
+    "RAW_NAME": "APALX 5 MG",
+    "MAPPED_NAME": "APALEX 5 MG",
+    "ITEM_CODE": 9633,
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "47",
+    "MATCH_SCORE": 93.14,
+    "SOURCE": "FUZZY"
+  }
+]

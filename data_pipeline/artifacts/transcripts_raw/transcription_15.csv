@@ -1,0 +1,4 @@
+file_name,segment_id,start_time_sec,end_time_sec,duration_sec,raw_transcript,language,audio_path,run_id
+15.wav,0,0.0,18.0,18.0,BactoClave 375 Tablet 1788 BactoClave 600mg Injection 1887,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\15.wav,run_20260126_213135
+15.wav,1,18.0,32.0,14.0,BactoClave 625 Tablet 1986 BactoClave DDS 30ml Syrup 2085,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\15.wav,run_20260126_213135
+15.wav,2,32.0,44.0,12.0,BactoClave DS 457 Comp Pack 60ml Dry Syrup 2184,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\15.wav,run_20260126_213135

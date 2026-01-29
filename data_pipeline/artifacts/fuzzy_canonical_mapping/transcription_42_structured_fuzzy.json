@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "42.wav",
+    "POSITION": 0,
+    "RAW_NAME": "ECOFLORA 30",
+    "MAPPED_NAME": "ECOFLORA 30 ",
+    "ITEM_CODE": "982",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "42.wav",
+    "POSITION": 1,
+    "RAW_NAME": "ECOFRESH",
+    "MAPPED_NAME": "ECOFRESH",
+    "ITEM_CODE": "8257",
+    "MEDICINE_TYPE": "EYE DROPS",
+    "QUANTITY": "1",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "42.wav",
+    "POSITION": 2,
+    "RAW_NAME": "ECOSAFE",
+    "MAPPED_NAME": "ECOSAFE",
+    "ITEM_CODE": "4725",
+    "MEDICINE_TYPE": "SACHETS",
+    "QUANTITY": "2",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "42.wav",
+    "POSITION": 3,
+    "RAW_NAME": "ECOSAFE Z",
+    "MAPPED_NAME": "ECOSAFE",
+    "ITEM_CODE": "4725",
+    "MEDICINE_TYPE": "SACHETS",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 100.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "42.wav",
+    "POSITION": 4,
+    "RAW_NAME": "ECO SMIN 30 75",
+    "MAPPED_NAME": "ECOSMIN 30 / 75",
+    "ITEM_CODE": "346",
+    "MEDICINE_TYPE": "CAPSULE",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 88.99,
+    "SOURCE": "FUZZY"
+  }
+]

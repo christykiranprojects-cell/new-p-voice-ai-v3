@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "CALCIOL K TABLET 2",
+    "raw_name": "CALCIOL K",
+    "raw_form": "TABLET",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "20.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "CALCI D 3 TABLET 6",
+    "raw_name": "CALCI D 3",
+    "raw_form": "TABLET",
+    "raw_quantity": "6",
+    "boundary_confident": true,
+    "file_name": "20.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "CALCI DOT MX TABLET 4",
+    "raw_name": "CALCI DOT MX",
+    "raw_form": "TABLET",
+    "raw_quantity": "4",
+    "boundary_confident": true,
+    "file_name": "20.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "CALCI DOT XT TABLET 6",
+    "raw_name": "CALCI DOT XT",
+    "raw_form": "TABLET",
+    "raw_quantity": "6",
+    "boundary_confident": true,
+    "file_name": "20.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "CALCIUM SOUND DASH 10 ML INJECTION 8.",
+    "raw_name": "CALCIUM SOUND DASH 10",
+    "raw_form": "INJECTION",
+    "raw_quantity": "8",
+    "boundary_confident": true,
+    "file_name": "20.wav"
+  }
+]

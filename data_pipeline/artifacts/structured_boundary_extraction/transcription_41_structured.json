@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "EC GO TABLET 1",
+    "raw_name": "ECGO",
+    "raw_form": "TABLET",
+    "raw_quantity": "1",
+    "boundary_confident": true,
+    "file_name": "41.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "EC LOB PLUS 0.5 MG SLASH 10 MG TABLET 1",
+    "raw_name": "ECLOB PLUS 0.5 MG SLASH 10 MG",
+    "raw_form": "TABLET",
+    "raw_quantity": "1",
+    "boundary_confident": true,
+    "file_name": "41.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "EC LOB 10 TABLET 4",
+    "raw_name": "ECLOB 10",
+    "raw_form": "TABLET",
+    "raw_quantity": "4",
+    "boundary_confident": true,
+    "file_name": "41.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "ECLOGRAND 15 GM CREAM 6",
+    "raw_name": "ECLOGRAND 15 GM",
+    "raw_form": "CREAM",
+    "raw_quantity": "6",
+    "boundary_confident": true,
+    "file_name": "41.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "ECLOGRAND 10 TABLET 7",
+    "raw_name": "ECLOGRAND 10",
+    "raw_form": "TABLET",
+    "raw_quantity": "7",
+    "boundary_confident": true,
+    "file_name": "41.wav"
+  }
+]

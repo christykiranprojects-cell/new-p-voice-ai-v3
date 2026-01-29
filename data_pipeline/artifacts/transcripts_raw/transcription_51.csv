@@ -1,0 +1,4 @@
+file_name,segment_id,start_time_sec,end_time_sec,duration_sec,raw_transcript,language,audio_path,run_id
+51.wav,0,0.0,15.52,15.52,Electrol Z plus 4.38 gm tablet 3 Electrol Z RD orange 200 ml syrup 3,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\51.wav,run_20260126_224922
+51.wav,1,15.52,28.36,12.84,ElectroBion orange 21 gm syrup 3 ElectroBion orange 4.2 gm syrup 3,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\51.wav,run_20260126_224922
+51.wav,2,28.36,30.64,2.280000000000001,ElectroBion Pro searchest 3,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\51.wav,run_20260126_224922

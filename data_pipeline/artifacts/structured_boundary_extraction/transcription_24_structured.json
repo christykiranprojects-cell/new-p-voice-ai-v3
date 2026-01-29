@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "DAGIIO GM 1 TABLET 5",
+    "raw_name": "DAGIIO GM 1",
+    "raw_form": "TABLET",
+    "raw_quantity": "5",
+    "boundary_confident": true,
+    "file_name": "24.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "DAGIIO GM 2 TABLET 40",
+    "raw_name": "DAGIIO GM 2",
+    "raw_form": "TABLET",
+    "raw_quantity": "40",
+    "boundary_confident": true,
+    "file_name": "24.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "DAGIIO GM 40 2 TABLET 8",
+    "raw_name": "DAGIIO GM 40 2",
+    "raw_form": "TABLET",
+    "raw_quantity": "8",
+    "boundary_confident": true,
+    "file_name": "24.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "DAGIIO L 5 TABLET 3",
+    "raw_name": "DAGIIO L 5",
+    "raw_form": "TABLET",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "24.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "DAGIIO M 1000 TABLET 9",
+    "raw_name": "DAGIIO M 1000",
+    "raw_form": "TABLET",
+    "raw_quantity": "9",
+    "boundary_confident": true,
+    "file_name": "24.wav"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "18.wav",
+    "POSITION": 0,
+    "RAW_NAME": "CAFFEINE 150",
+    "MAPPED_NAME": "CAFUNE 150 ML",
+    "ITEM_CODE": "TI30",
+    "MEDICINE_TYPE": "SHAMPOO ",
+    "QUANTITY": "4",
+    "MATCH_SCORE": 75.93,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "18.wav",
+    "POSITION": 1,
+    "RAW_NAME": "CAKEX",
+    "MAPPED_NAME": "CAKCUX",
+    "ITEM_CODE": "8310",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "6",
+    "MATCH_SCORE": 73.64,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "18.wav",
+    "POSITION": 2,
+    "RAW_NAME": "CAELB",
+    "MAPPED_NAME": "CA LB",
+    "ITEM_CODE": "VT12",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "7",
+    "MATCH_SCORE": 80.0,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "18.wav",
+    "POSITION": 3,
+    "RAW_NAME": "CALBOND MILK 250",
+    "MAPPED_NAME": "CALBON MILK 250",
+    "ITEM_CODE": "1353",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 95.4,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "18.wav",
+    "POSITION": 4,
+    "RAW_NAME": "CALCASE XT",
+    "MAPPED_NAME": "CALCAZE XT",
+    "ITEM_CODE": "5232",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "1",
+    "MATCH_SCORE": 90.0,
+    "SOURCE": "FUZZY"
+  }
+]

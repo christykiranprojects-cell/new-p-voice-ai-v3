@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "46.wav",
+    "POSITION": 0,
+    "RAW_NAME": "E FLAME",
+    "MAPPED_NAME": "EEZFLAM",
+    "ITEM_CODE": "3959",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "6",
+    "MATCH_SCORE": 73.63,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "46.wav",
+    "POSITION": 1,
+    "RAW_NAME": "EFECTUM ACTIVE",
+    "MAPPED_NAME": "EFFECTUM ACTIVE",
+    "ITEM_CODE": "8685",
+    "MEDICINE_TYPE": "CAPSULE",
+    "QUANTITY": "7",
+    "MATCH_SCORE": 96.45,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "46.wav",
+    "POSITION": 2,
+    "RAW_NAME": "EFECTUM",
+    "MAPPED_NAME": "EFFECTUM",
+    "ITEM_CODE": "1635",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "3",
+    "MATCH_SCORE": 92.92,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "46.wav",
+    "POSITION": 3,
+    "RAW_NAME": "EFECTUM ELAICHI",
+    "MAPPED_NAME": "EFFECTUM ELAICHI",
+    "ITEM_CODE": "3696",
+    "MEDICINE_TYPE": "SACHETS",
+    "QUANTITY": "1",
+    "MATCH_SCORE": 96.69,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "46.wav",
+    "POSITION": 4,
+    "RAW_NAME": "EFFINAC 600 MG",
+    "MAPPED_NAME": "EFFENAC 600 MG",
+    "ITEM_CODE": "5857",
+    "MEDICINE_TYPE": "TABLET",
+    "QUANTITY": "2",
+    "MATCH_SCORE": 92.86,
+    "SOURCE": "FUZZY"
+  }
+]

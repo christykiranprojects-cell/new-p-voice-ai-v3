@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "AFEROSID CREAM 6",
+    "raw_name": "AFEROSID",
+    "raw_form": "CREAM",
+    "raw_quantity": "6",
+    "boundary_confident": true,
+    "file_name": "48.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "ALBRON H SYRUP 4",
+    "raw_name": "ALBRON H",
+    "raw_form": "SYRUP",
+    "raw_quantity": "4",
+    "boundary_confident": true,
+    "file_name": "48.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "ALBRON LS SYRUP 6",
+    "raw_name": "ALBRON LS",
+    "raw_form": "SYRUP",
+    "raw_quantity": "6",
+    "boundary_confident": true,
+    "file_name": "48.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "ALCARIN ELIXIR 110 ML SYRUP 2",
+    "raw_name": "ALCARIN ELIXIR 110",
+    "raw_form": "SYRUP",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "48.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "ALBRON H SYRUP 2",
+    "raw_name": "ALBRON H",
+    "raw_form": "SYRUP",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "48.wav"
+  }
+]

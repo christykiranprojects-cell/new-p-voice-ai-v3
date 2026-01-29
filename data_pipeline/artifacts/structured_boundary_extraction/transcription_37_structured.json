@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "DARBOSIS 25 TABLET 2",
+    "raw_name": "DARBOSIS 25",
+    "raw_form": "TABLET",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "37.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "DARBOSIS 40 TABLET 6",
+    "raw_name": "DARBOSIS 40",
+    "raw_form": "TABLET",
+    "raw_quantity": "6",
+    "boundary_confident": true,
+    "file_name": "37.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "DAROLAC CAPSULE 4",
+    "raw_name": "DAROLAC",
+    "raw_form": "CAPSULE",
+    "raw_quantity": "4",
+    "boundary_confident": true,
+    "file_name": "37.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "DAROLAC MINI TABLET 6",
+    "raw_name": "DAROLAC MINI",
+    "raw_form": "TABLET",
+    "raw_quantity": "6",
+    "boundary_confident": true,
+    "file_name": "37.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "DAROLAC SOCHETS 3.",
+    "raw_name": "DAROLAC",
+    "raw_form": "SACHETS",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "37.wav"
+  }
+]

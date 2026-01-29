@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "DEPANOVA GM FORTE 1 TABLET 7",
+    "raw_name": "DEPANOVA GM FORTE 1",
+    "raw_form": "TABLET",
+    "raw_quantity": "7",
+    "boundary_confident": true,
+    "file_name": "32.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "DEPANOVA GM FORTE 2 TABLET 3",
+    "raw_name": "DEPANOVA GM FORTE 2",
+    "raw_form": "TABLET",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "32.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "DEPANOVA GM 1 TABLET 1",
+    "raw_name": "DEPANOVA GM 1",
+    "raw_form": "TABLET",
+    "raw_quantity": "1",
+    "boundary_confident": true,
+    "file_name": "32.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "DEPANOVA GM 2 TABLET 2",
+    "raw_name": "DEPANOVA GM 2",
+    "raw_form": "TABLET",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "32.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "DEPANOVA L TABLET 3",
+    "raw_name": "DEPANOVA L",
+    "raw_form": "TABLET",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "32.wav"
+  }
+]

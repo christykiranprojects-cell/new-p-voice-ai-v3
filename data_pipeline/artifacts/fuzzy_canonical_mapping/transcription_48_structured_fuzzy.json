@@ -1,0 +1,57 @@
+[
+  {
+    "FILE_NAME": "48.wav",
+    "POSITION": 0,
+    "RAW_NAME": "AFEROSID",
+    "MAPPED_NAME": "EFROCID",
+    "ITEM_CODE": "4945",
+    "MEDICINE_TYPE": "CREAM",
+    "QUANTITY": "6",
+    "MATCH_SCORE": 70.77,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "48.wav",
+    "POSITION": 1,
+    "RAW_NAME": "ALBRON H",
+    "MAPPED_NAME": "ELBRON H",
+    "ITEM_CODE": "9768",
+    "MEDICINE_TYPE": "SYRUP",
+    "QUANTITY": "4",
+    "MATCH_SCORE": 89.83,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "48.wav",
+    "POSITION": 2,
+    "RAW_NAME": "ALBRON LS",
+    "MAPPED_NAME": "ELBRON LS",
+    "ITEM_CODE": "SIT8",
+    "MEDICINE_TYPE": "SYRUP",
+    "QUANTITY": "6",
+    "MATCH_SCORE": 90.98,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "48.wav",
+    "POSITION": 3,
+    "RAW_NAME": "ALCARIN ELIXIR 110",
+    "MAPPED_NAME": "ELCARIM ELIXIR 110 ML",
+    "ITEM_CODE": "6200",
+    "MEDICINE_TYPE": "SYRUP",
+    "QUANTITY": "2",
+    "MATCH_SCORE": 84.79,
+    "SOURCE": "FUZZY"
+  },
+  {
+    "FILE_NAME": "48.wav",
+    "POSITION": 4,
+    "RAW_NAME": "ALBRON H",
+    "MAPPED_NAME": "ELBRON H",
+    "ITEM_CODE": "9768",
+    "MEDICINE_TYPE": "SYRUP",
+    "QUANTITY": "2",
+    "MATCH_SCORE": 89.83,
+    "SOURCE": "FUZZY"
+  }
+]

@@ -1,0 +1,4 @@
+file_name,segment_id,start_time_sec,end_time_sec,duration_sec,raw_transcript,language,audio_path,run_id
+50.wav,0,0.0,10.72,10.72,Electrol Orange 200 ml Syrup 4 Electrol 21.8 gm Tablet 2,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\50.wav,run_20260126_224735
+50.wav,1,10.72,21.68,10.959999999999999,Electrol 4.4 gm Tablet 6 Electrol Orange 21.8 gm Tablet 4,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\50.wav,run_20260126_224735
+50.wav,2,21.68,26.240000000000002,4.560000000000002,Electrol Orange 4.4 gm Tablet 6,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\50.wav,run_20260126_224735

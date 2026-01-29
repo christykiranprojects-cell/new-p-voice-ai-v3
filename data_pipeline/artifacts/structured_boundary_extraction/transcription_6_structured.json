@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "AND PROX MR TABLET 5",
+    "raw_name": "ANDPROX MR",
+    "raw_form": "TABLET",
+    "raw_quantity": "5",
+    "boundary_confident": true,
+    "file_name": "6.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "AND SAID GEL 3",
+    "raw_name": "ANDSAID",
+    "raw_form": "GEL",
+    "raw_quantity": "3",
+    "boundary_confident": true,
+    "file_name": "6.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "AND SAID SP TABLET 2",
+    "raw_name": "ANDSAID SP",
+    "raw_form": "TABLET",
+    "raw_quantity": "2",
+    "boundary_confident": true,
+    "file_name": "6.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "AND TELL SUSPENSION 1",
+    "raw_name": "ANDTELL",
+    "raw_form": "SUSPENSION",
+    "raw_quantity": "1",
+    "boundary_confident": true,
+    "file_name": "6.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "AND TICK TABLET 6",
+    "raw_name": "ANDTICK",
+    "raw_form": "TABLET",
+    "raw_quantity": "6",
+    "boundary_confident": true,
+    "file_name": "6.wav"
+  }
+]

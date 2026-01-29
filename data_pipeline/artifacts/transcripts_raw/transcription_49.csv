@@ -1,0 +1,4 @@
+file_name,segment_id,start_time_sec,end_time_sec,duration_sec,raw_transcript,language,audio_path,run_id
+49.wav,0,0.0,13.68,13.68,LD3X4 tablet 1 Aldixent tablet 4,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\49.wav,run_20260126_224507
+49.wav,1,13.68,23.16,9.48,Eldoper tablet 6 Electrol Apple 200 ml syrup 7,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\49.wav,run_20260126_224507
+49.wav,2,23.16,26.6,3.4400000000000013,Electrol Mango 200 ml syrup 3,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\49.wav,run_20260126_224507

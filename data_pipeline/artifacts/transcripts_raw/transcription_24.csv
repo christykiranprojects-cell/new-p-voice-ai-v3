@@ -1,0 +1,4 @@
+file_name,segment_id,start_time_sec,end_time_sec,duration_sec,raw_transcript,language,audio_path,run_id
+24.wav,0,0.0,10.0,10.0,Dagiio GM1 Tablet 5 Dagiio GM2 Tablet 40,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\24.wav,run_20260126_215430
+24.wav,1,10.0,23.0,13.0,Dagiio GM40 2 Tablet 8 Dagiio L5 Tablet 3,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\24.wav,run_20260126_215430
+24.wav,2,23.0,29.0,6.0,Dagiio M1000 Tablet 9,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\24.wav,run_20260126_215430

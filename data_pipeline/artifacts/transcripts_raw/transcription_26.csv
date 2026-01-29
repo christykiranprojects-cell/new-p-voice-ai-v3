@@ -1,0 +1,6 @@
+file_name,segment_id,start_time_sec,end_time_sec,duration_sec,raw_transcript,language,audio_path,run_id
+26.wav,0,0.0,6.0,6.0,Dinoleal MXR Tablet 25,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\26.wav,run_20260126_215759
+26.wav,1,6.0,13.0,7.0,Depaflex 10 Tablet 45,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\26.wav,run_20260126_215759
+26.wav,2,13.0,20.0,7.0,Depaflex M10 Slash 1000mg Tablet 48,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\26.wav,run_20260126_215759
+26.wav,3,20.0,27.0,7.0,Depaflex M10 Slash 500mg Tablet 49,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\26.wav,run_20260126_215759
+26.wav,4,27.0,33.0,6.0,Depaflex S10 Slash 100 Tablet 15,en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\26.wav,run_20260126_215759

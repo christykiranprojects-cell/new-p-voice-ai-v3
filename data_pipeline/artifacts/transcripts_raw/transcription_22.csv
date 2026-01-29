@@ -1,0 +1,2 @@
+file_name,segment_id,start_time_sec,end_time_sec,duration_sec,raw_transcript,language,audio_path,run_id
+22.wav,0,0.0,22.0,22.0,"Calculate D3 Tablet 4, Calcd Tablet 2, Calcd Tablet 5, Calflavni Tablet 3, Calhardt ISO Tablet 1",en,D:\new_p_voice_ai_v3\data_pipeline\artifacts\audio_processed\22.wav,run_20260126_214424

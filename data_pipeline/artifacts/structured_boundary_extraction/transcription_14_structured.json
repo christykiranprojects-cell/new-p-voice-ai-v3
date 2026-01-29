@@ -1,0 +1,47 @@
+[
+  {
+    "position": 0,
+    "text_span": "BACTOCLAVE SYRUP 1293",
+    "raw_name": "BACTOCLAVE",
+    "raw_form": "SYRUP",
+    "raw_quantity": "1293",
+    "boundary_confident": true,
+    "file_name": "14.wav"
+  },
+  {
+    "position": 1,
+    "text_span": "BACTOCLAVE 1000 TABLET 1392",
+    "raw_name": "BACTOCLAVE 1000",
+    "raw_form": "TABLET",
+    "raw_quantity": "1392",
+    "boundary_confident": true,
+    "file_name": "14.wav"
+  },
+  {
+    "position": 2,
+    "text_span": "BACTOCLAVE 150 MG INJECTION 1491",
+    "raw_name": "BACTOCLAVE 150 MG",
+    "raw_form": "INJECTION",
+    "raw_quantity": "1491",
+    "boundary_confident": true,
+    "file_name": "14.wav"
+  },
+  {
+    "position": 3,
+    "text_span": "BACTOCLAVE 228.5 MG 60 ML SYRUP 1590",
+    "raw_name": "BACTOCLAVE 228.5 MG 60",
+    "raw_form": "SYRUP",
+    "raw_quantity": "1590",
+    "boundary_confident": true,
+    "file_name": "14.wav"
+  },
+  {
+    "position": 4,
+    "text_span": "BACTOCLAVE 300 MG INJECTION 1689",
+    "raw_name": "BACTOCLAVE 300 MG",
+    "raw_form": "INJECTION",
+    "raw_quantity": "1689",
+    "boundary_confident": true,
+    "file_name": "14.wav"
+  }
+]
