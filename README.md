@@ -193,9 +193,9 @@ Each folder contains immutable artifacts and code used for validation and explan
 ## Intended Audience
 
 This repository is intended for:
-- Academic evaluation (MCA / M.Tech projects)
 - System engineering review
 - Regulatory and compliance discussion
+- Interested to know Voice Enabled Features for your product
 
 ---
 
