@@ -87,7 +87,7 @@ This design supports:
 - Computer System Validation (CSV)
 
 ---
-### **[MEASUREMENT]**
+### **[MEASUREMEN]**
 
 ## Pre-Phase A — Audio Quality Assessment (Quality Matrix) - 
 
@@ -108,7 +108,7 @@ Outputs:
 This layer ensures evaluation validity by separating **measurement** from **transformation**.
 
 ---
-### **[TRANSFORMATION]**
+### **[AUDIO TO TRANSCRIBING]**
 ## Phase A — Audio Preprocessing 
 
 Deterministic signal processing to produce a canonical audio format:
@@ -141,7 +141,7 @@ Key constraints:
 This phase converts normalized audio into **raw transcription artifacts**.
 
 ---
-
+### **[STRUCTURED RAW DATA]**
 ## Phase C — Structured Boundary Extraction
 
 A **rule-based NLP layer** that converts raw text into structured medicine items.
@@ -158,7 +158,7 @@ RAW_MEDICINE_DOSAGE | RAW_MEDICINE_TYPE | QUANTITY
 No machine learning or embeddings are used in this phase.
 
 ---
-
+### **[TRANSFORMATION - PREDICTED NAMES]**
 ## Phase D — Fuzzy Canonical Mapping
 
 An **explainable fuzzy similarity layer** that maps extracted medicines to a master catalog.
@@ -172,7 +172,7 @@ Characteristics:
 This phase resolves spelling and pronunciation variability without introducing hallucinations.
 
 ---
-
+### **[EVALUATION]**
 ## Phase E — Evaluation & Audit
 
 A read-only evaluation layer that measures system performance.
