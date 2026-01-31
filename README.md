@@ -74,9 +74,8 @@ This design supports:
 - Computer System Validation (CSV)
 
 ---
-============================================================================================
-## **[MEASUREMENT]**
-============================================================================================
+### **[MEASUREMENT]**
+
 ## Pre-Phase A — Audio Quality Assessment (Quality Matrix) - 
 
 A **read-only assessment layer** that evaluates audio *before* any preprocessing.
@@ -96,7 +95,7 @@ Outputs:
 This layer ensures evaluation validity by separating **measurement** from **transformation**.
 
 ---
-[TRANSFORMATION]
+### **[TRANSFORMATION]**
 ## Phase A — Audio Preprocessing 
 
 Deterministic signal processing to produce a canonical audio format:
