@@ -34,22 +34,22 @@ In regulated pharmaceutical workflows, **traceability and safety are prioritized
 The pipeline is organized into clearly defined phases:
 
 ```
+___________________________________________________________________________________________________________|____________
+ _______________                |  Deterministic or Finite State Machine [FSM] Architecture|               |
+|               |  System       |                 Execution Controller Agent               |               |
+| CONTROL PLANE |  Engineering /|                   (Loading Heavy Model)                  |               |
+|_______________|  Architecture |             Allocation of Threads/Processors             |               |
+                                |           [IDEL, THINK, ACT OR EMERGENCY STATES]         |               |
+                                |                              ^                           |               |
+________________________________|______________________________^ ________|_________________|_______________|____________
+_______________                 |                              |         |                 |               |
+|              | Pre-Phase A   →|→      Phase A        →    Phase B      →     Phase C     |→  Phase D     |→ Phase E
+|  DATA PLANE  |   (Assess)     |  (Processed Audio)   (ASR-Transcribe)  | (Boundary Rules)|  (Fuzzy)      |  (Audit)
+|______________|                |                                        |                 |               |
+________________________________|________________________________________|_________________|_______________|____________
+                  MEASUREMENT   |      AUDIO TO RAW TRANSCRIPT           |  STRUCTURED     | TRANSFORMATION| EVALUATION
+________________________________|________________________________________|___RAW DATA______|_______________|____________
 ____________________________________________________________________________________________________________________
- _______________                  |   Deterministic or Finite State Machine [FSM] Architecture
-|               |  System         |                 Execution Controller Agent
-| CONTROL PLANE |  Engineering /  |                   (Loading Heavy Model)
-|_______________|  Architecture   |             Allocation of Threads/Processors
-                                  |           [IDEL, THINK, ACT OR EMERGENCY STATES]
-                                  |                              ^
-__________________________________|______________________________^ _________________________________________________
-_______________                   |                              |
-|              | Pre-Phase A     →|→      Phase A        →    Phase B      →      Phase C     →  Phase D   →  Phase E
-|  DATA PLANE  |   (Assess)       |  (Processed Audio)   (ASR-Transcribe)     (Boundary Rules)   (Fuzzy)      (Audit)
-|______________|                  |
-__________________________________|_________________________________________________________________________________
-                [MEASUREMENT]     |                           [TRANSFORMATION]
-__________________________________|_________________________________________________________________________________
-
 ```
 
 Each phase produces immutable artifacts and never mutates upstream outputs.
