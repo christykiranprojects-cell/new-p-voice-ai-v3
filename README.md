@@ -17,7 +17,7 @@ The pipeline processes real-world voice orders captured via mobile devices and c
 
 ## Key Design Philosophy
 
-This project follows a **system-engineering-first approach**, not a pure end-to-end AI approach.
+This project follows a **system-engineering-first approach**, not just pure end-to-end AI approach.
 
 Core principles:
 - **Control Plane ≠ Data Plane** separation
