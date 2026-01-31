@@ -34,12 +34,18 @@ In regulated pharmaceutical workflows, **traceability and safety are prioritized
 The pipeline is organized into clearly defined phases:
 
 ```
-|CONTROL PLANE |                               Execution Controller Agent
-|              |                                 (Loading Heavy Model)
-________________                            Allocation of Threads/Processors
-| _____________|                                         |
-|  DATA PLANE  | Pre-Phase A   → Phase A            → Phase B         → Phase C        → Phase D  → Phase E
-|              | (Assess)       (Processed Audio)   (ASR-Transcribe)   (Boundary Rules)  (Fuzzy)    (Audit)
+_________________________________________________________________________________________________________________
+ _______________
+|               |                              Execution Controller Agent
+| CONTROL PLANE |                                (Loading Heavy Model)
+|_______________|                           Allocation of Threads/Processors
+_______________                                         |
+|              | Pre-Phase A   →      Phase A        →    Phase B      →      Phase C     → Phase D   →  Phase E
+|  DATA PLANE  |   (Assess)       (Processed Audio)   (ASR-Transcribe)   (Boundary Rules)   (Fuzzy)      (Audit)
+|______________|
+_________________________________________________________________________________________________________________
+                [MEASUREMENT]                           [TRANSFORMATION]
+_________________________________________________________________________________________________________________
 ```
 
 Each phase produces immutable artifacts and never mutates upstream outputs.
