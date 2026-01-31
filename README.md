@@ -34,23 +34,31 @@ In regulated pharmaceutical workflows, **traceability and safety are prioritized
 The pipeline is organized into clearly defined phases:
 
 ```
-___________________________________________________________________________________________________________|____________
+________________________________|__________________________________________________________|_______________|_______________
  _______________                |  Deterministic or Finite State Machine [FSM] Architecture|               |
 |               |  System       |                 Execution Controller Agent               |               |
 | CONTROL PLANE |  Engineering /|                   (Loading Heavy Model)                  |               |
 |_______________|  Architecture |             Allocation of Threads/Processors             |               |
                                 |           [IDEL, THINK, ACT OR EMERGENCY STATES]         |               |
-                                |                              ^                           |               |
-________________________________|______________________________^ ________|_________________|_______________|____________
+                                |                              ^                           |               | 
+________________________________|______________________________^ ________|_________________|_______________|_______________
 _______________                 |                              |         |                 |               |
 |              | Pre-Phase A   →|→      Phase A        →    Phase B      →     Phase C     |→  Phase D     |→ Phase E
 |  DATA PLANE  |   (Assess)     |  (Processed Audio)   (ASR-Transcribe)  | (Boundary Rules)|  (Fuzzy)      |  (Audit)
 |______________|                |                                        |                 |               |
-________________________________|________________________________________|_________________|_______________|____________
+________________________________|________________________________________|_________________|_______________|_______________
                   MEASUREMENT   |      AUDIO TO RAW TRANSCRIPT           |  STRUCTURED     | TRANSFORMATION| EVALUATION
-________________________________|________________________________________|___RAW DATA______|_______________|____________
-____________________________________________________________________________________________________________________
-```
+________________________________|________________________________________|___RAW DATA______|_______________|_______________
+
+___________________________________________________**FUTURE WORKS**______________________________|______________________________
+|                                                                                          |   Phase D     |
+|                                                                                          | [Embedding    | > > VECTOR DATABASE
+|                                                                                          | similarity]   |       ^
+|__________________________________________________________________________________________|_______________|______ ^ _______
+| DATABASE MANAGEMENT | AWS S3  |  SAVE AUDIO'S PUSHED FROM AWS S3 &     |      JSON       | JSON OR TOON  |      LLM
+|                     | BUCKET  |     SAVE RAW TEXT DATA                 |    [MANGO DB]   | (WILL DECIDE) |  Open source
+|                     |         |           [MANGO DB]                   |                 |               |      Qwen
+``` 
 
 Each phase produces immutable artifacts and never mutates upstream outputs.
 - **Data flows forward. Corrections never flow backward**
