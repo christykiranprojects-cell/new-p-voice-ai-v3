@@ -34,30 +34,34 @@ In regulated pharmaceutical workflows, **traceability and safety are prioritized
 The pipeline is organized into clearly defined phases:
 
 ```
-________________________________|__________________________________________________________|_______________|_______________
+________________________________|__________________________________________________________|_______________|__________________
  _______________                |  Deterministic or Finite State Machine [FSM] Architecture|               |
 |               |  System       |                 Execution Controller Agent               |               |
 | CONTROL PLANE |  Engineering /|                   (Loading Heavy Model)                  |               |
 |_______________|  Architecture |             Allocation of Threads/Processors             |               |
                                 |           [IDEL, THINK, ACT OR EMERGENCY STATES]         |               |
                                 |                              ^                           |               | 
-________________________________|______________________________^ ________|_________________|_______________|_______________
+________________________________|______________________________^ ________|_________________|_______________|___________________
 _______________                 |                              |         |                 |               |
 |              | Pre-Phase A   →|→      Phase A        →    Phase B      →     Phase C     |→  Phase D     |→ Phase E
-|  DATA PLANE  |   (Assess)     |  (Processed Audio)   (ASR-Transcribe)  | (Boundary Rules)|  (Fuzzy)      |  (Audit)
-|______________|                |                                        |                 |               |
-________________________________|________________________________________|_________________|_______________|_______________
-                  MEASUREMENT   |      AUDIO TO RAW TRANSCRIPT           |  STRUCTURED     | TRANSFORMATION| EVALUATION
-________________________________|________________________________________|___RAW DATA______|_______________|_______________
+|  DATA PLANE  |   (Assess)     |  (Processed Audio)   (ASR-Transcribe)  | (Boundary Rules)|   (Fuzzy)     | (Audit Matrics)
+|______________|                |                       JSON TO CSV      |  JSON TO CSV    |     CSV       | 
+________________________________|________________________________________|_________________|_______________|___________________
+                  MEASUREMENT   |      AUDIO TO RAW TRANSCRIPT           |  STRUCTURED     | TRANSFORMATION|  EVALUATION
+________________________________|________________________________________|___RAW DATA______|___[PREDICTED]_|___________________
 
-___________________________________________________**FUTURE WORKS**______________________________|______________________________
+_________________________________________________________**FUTURE WORKS**__________________________|___________________________
 |                                                                                          |   Phase D     |
-|                                                                                          | [Embedding    | > > VECTOR DATABASE
+|                                                                                          | [Embedding    > > VECTOR DATABASE
 |                                                                                          | similarity]   |       ^
-|__________________________________________________________________________________________|_______________|______ ^ _______
+|__________________________________________________________________________________________|_______________|______ ^ __________
 | DATABASE MANAGEMENT | AWS S3  |  SAVE AUDIO'S PUSHED FROM AWS S3 &     |      JSON       | JSON OR TOON  |      LLM
 |                     | BUCKET  |     SAVE RAW TEXT DATA                 |    [MANGO DB]   | (WILL DECIDE) |  Open source
 |                     |         |           [MANGO DB]                   |                 |               |      Qwen
+|______________________________________________________________________________________________________________________________
+|                                                      GPU / Cloud Migration
+|                                              [REDUCE LATENCY AND READY FOR DEPLOYMENT]
+|______________________________________________________________________________________________________________________________
 ``` 
 
 Each phase produces immutable artifacts and never mutates upstream outputs.
