@@ -20,7 +20,7 @@ The pipeline processes real-world voice orders captured via mobile devices and c
 This project follows a **system-engineering-first approach**, not just pure end-to-end AI approach.
 
 Core principles:
-- **Control Plane ≠ Data Plane** separation
+- **Control Plane ≠ Data Plane**
 - Heavy AI workloads are **explicitly governed**, not implicitly executed
 - Errors are **measured and logged**, not hidden
 - Quantity correctness is treated as a **protected invariant**
@@ -34,8 +34,10 @@ In regulated pharmaceutical workflows, **traceability and safety are prioritized
 The pipeline is organized into clearly defined phases:
 
 ```
-Pre-Phase A → Phase A → Phase B → Phase C → Phase D → Phase E
-   (Assess)    (Audio)   (ASR)     (Rules)    (Fuzzy)   (Audit)
+                                   Control Plane
+                                      |
+Pre-Phase A  → Phase A           → Phase B            → Phase C           → Phase D → Phase E
+(Assess)       (Processed Audio)   (ASR-Transcribe)     (Boundary Rules)    (Fuzzy)   (Audit)
 ```
 
 Each phase produces immutable artifacts and never mutates upstream outputs.
