@@ -36,6 +36,7 @@ The pipeline is organized into clearly defined phases:
 ```
 |CONTROL PLANE |                               Execution Controller Agent
 |              |                                 (Loading Heavy Model)
+________________                            Allocation of Threads/Processors
 | _____________|                                         |
 |  DATA PLANE  | Pre-Phase A   → Phase A            → Phase B         → Phase C        → Phase D  → Phase E
 |              | (Assess)       (Processed Audio)   (ASR-Transcribe)   (Boundary Rules)  (Fuzzy)    (Audit)
