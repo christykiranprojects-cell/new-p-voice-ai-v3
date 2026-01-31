@@ -203,7 +203,7 @@ Each folder contains immutable artifacts and code used for validation and explan
 This repository is intended for:
 - System engineering review
 - Regulatory and compliance discussion
-- Interested to know Voice Enabled Features for your product
+- Interested to know Voice Enabled Features to Products
 
 ---
 
@@ -323,6 +323,6 @@ new-p-voice-ai-v3/
 │           ├── metrics.json
 │           └── wer_cer_report.csv
 │
-└── __pycache__/   (ignored in Git)
+└── __pycache__/  
 ```
 
