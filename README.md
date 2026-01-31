@@ -34,18 +34,22 @@ In regulated pharmaceutical workflows, **traceability and safety are prioritized
 The pipeline is organized into clearly defined phases:
 
 ```
-_________________________________________________________________________________________________________________
- _______________
-|               |                              Execution Controller Agent
-| CONTROL PLANE |                                (Loading Heavy Model)
-|_______________|                           Allocation of Threads/Processors
-_______________                                         |
-|              | Pre-Phase A   →      Phase A        →    Phase B      →      Phase C     → Phase D   →  Phase E
-|  DATA PLANE  |   (Assess)       (Processed Audio)   (ASR-Transcribe)   (Boundary Rules)   (Fuzzy)      (Audit)
-|______________|
-_________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________
+ _______________                  |
+|               |  System         |                 Execution Controller Agent
+| CONTROL PLANE |  Engineering /  |                   (Loading Heavy Model)
+|_______________|  Architecture   |             Allocation of Threads/Processors
+                                  |           [IDEL, THINK, ACT OR EMERGENCY STATES]
+                                  |                              ^
+__________________________________|______________________________^ _________________________________________________
+_______________                   |                              |
+|              | Pre-Phase A     →|→      Phase A        →    Phase B      →      Phase C     →  Phase D   →  Phase E
+|  DATA PLANE  |   (Assess)       |  (Processed Audio)   (ASR-Transcribe)     (Boundary Rules)   (Fuzzy)      (Audit)
+|______________|                  |
+__________________________________|_________________________________________________________________________________
                 [MEASUREMENT]     |                           [TRANSFORMATION]
-__________________________________|______________________________________________________________________________
+__________________________________|_________________________________________________________________________________
+
 ```
 
 Each phase produces immutable artifacts and never mutates upstream outputs.
