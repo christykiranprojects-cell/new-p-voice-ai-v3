@@ -68,7 +68,7 @@ Each phase produces immutable artifacts and never mutates upstream outputs.
 - **Data flows forward. Corrections never flow backward**
 
 ---
-
+### **[SYSTEM ENGINEERING AND AGENT CONTROLLER SYSTEM]**
 ## Control Plane — Execution Controller Agent
 
 The **Execution Controller Agent** governs all heavy computation.
@@ -87,7 +87,7 @@ This design supports:
 - Computer System Validation (CSV)
 
 ---
-### **[MEASUREMEN]**
+### **[MEASUREMENT]**
 
 ## Pre-Phase A — Audio Quality Assessment (Quality Matrix) - 
 
