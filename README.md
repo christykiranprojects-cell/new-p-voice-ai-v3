@@ -218,6 +218,7 @@ This project demonstrates that **responsible AI system design** in regulated dom
 The pipeline intentionally favors these properties over opaque automation - Not followed Black box concepts
 
 ## Project Structure
+```
 new-p-voice-ai-v3/
 │
 ├── README.md
@@ -323,5 +324,5 @@ new-p-voice-ai-v3/
 │           └── wer_cer_report.csv
 │
 └── __pycache__/   (ignored in Git)
-
+```
 
