@@ -17,9 +17,8 @@ env/
 
 # ==============================
 # CSV/PNG/JSON generated outputs
-# (KEEP INCLUDED via artifacts folder)
+# (artifacts folder)
 # ==============================
-# (no global ignore here)
 
 # ==============================
 # Whisper / model cache
