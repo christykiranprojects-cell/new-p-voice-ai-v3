@@ -35,7 +35,7 @@ The pipeline is organized into clearly defined phases:
 
 ```
 ____________________________________________________________________________________________________________________
- _______________                  |
+ _______________                  |   Deterministic or Finite State Machine [FSM] Architecture
 |               |  System         |                 Execution Controller Agent
 | CONTROL PLANE |  Engineering /  |                   (Loading Heavy Model)
 |_______________|  Architecture   |             Allocation of Threads/Processors
