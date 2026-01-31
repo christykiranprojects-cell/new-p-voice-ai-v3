@@ -34,7 +34,7 @@ In regulated pharmaceutical workflows, **traceability and safety are prioritized
 The pipeline is organized into clearly defined phases:
 
 ```
-|CONTROL PLANCE|                                Execution Controller Agent
+|CONTROL PLANE|                                Execution Controller Agent
 |              |                                 (Loading Heavy Model)
 | _____________|                                         |
 |  DATA PLANE  | Pre-Phase A   → Phase A            → Phase B            → Phase C           → Phase D  → Phase E
