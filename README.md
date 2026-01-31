@@ -65,7 +65,7 @@ _________________________________________________________**FUTURE WORKS**_______
 ``` 
 
 Each phase produces immutable artifacts and never mutates upstream outputs.
-- **Data flows forward. Corrections never flow backward**
+
 
 ---
 ### **[SYSTEM ENGINEERING AND AGENT CONTROLLER SYSTEM]**
