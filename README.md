@@ -53,6 +53,7 @@ __________________________________|_____________________________________________
 ```
 
 Each phase produces immutable artifacts and never mutates upstream outputs.
+- **Data flows forward. Corrections never flow backward**
 
 ---
 
