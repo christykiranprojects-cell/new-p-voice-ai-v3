@@ -126,9 +126,9 @@ Features:
 - Frozen medicine-type alias registry
 - Explicit quantity extraction
   
--
+```
 RAW_MEDICINE_DOSAGE | RAW_MEDICINE_TYPE | QUANTITY
--
+```
 
 No machine learning or embeddings are used in this phase.
 
