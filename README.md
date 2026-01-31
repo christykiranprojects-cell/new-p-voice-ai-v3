@@ -63,8 +63,8 @@ This design supports:
 - Computer System Validation (CSV)
 
 ---
-
-## Pre-Phase A — Audio Quality Assessment (Quality Matrix)
+[MEASUREMENT]
+## Pre-Phase A — Audio Quality Assessment (Quality Matrix) - 
 
 A **read-only assessment layer** that evaluates audio *before* any preprocessing.
 
@@ -83,17 +83,17 @@ Outputs:
 This layer ensures evaluation validity by separating **measurement** from **transformation**.
 
 ---
-
-## Phase A — Audio Preprocessing
+[TRANSFORMATION]
+## Phase A — Audio Preprocessing 
 
 Deterministic signal processing to produce a canonical audio format:
-- 16 kHz sampling
+- 16 kHz sampling OR 16000 HZ
 - Mono channel
-- 16-bit PCM WAV
+- 16-bit PCM WAV Format expected for AI Works
 
 Operations include:
-- DC offset removal
-- Loudness normalization
+- DC offset removal: No Non-Zero
+- Loudness normalization: -14 to -24
 - Silence trimming
 - Conservative denoise placeholder
 
@@ -109,9 +109,9 @@ Phase A is:
 Speech recognition is performed using **Whisper Large-v1**, executed under strict control.
 
 Key constraints:
-- Model loading only in `ACT` state
-- CPU threads governed by agent
-- Transcription outputs are immutable
+- Model loading only in `ACT` state [FSM]
+- CPU threads governed by agent [FSM]
+- Transcription outputs are immutable [artifacts]
 
 This phase converts normalized audio into **raw transcription artifacts**.
 
@@ -125,7 +125,9 @@ Features:
 - Deterministic BEGIN–MID–END boundary logic
 - Frozen medicine-type alias registry
 - Explicit quantity extraction
-
+---
+RAW_MEDICINE_DOSAGE | RAW_MEDICINE_TYPE | QUANTITY
+---
 No machine learning or embeddings are used in this phase.
 
 ---
