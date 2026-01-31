@@ -44,8 +44,8 @@ _______________                                         |
 |  DATA PLANE  |   (Assess)       (Processed Audio)   (ASR-Transcribe)   (Boundary Rules)   (Fuzzy)      (Audit)
 |______________|
 _________________________________________________________________________________________________________________
-                [MEASUREMENT]                           [TRANSFORMATION]
-_________________________________________________________________________________________________________________
+                [MEASUREMENT]     |                           [TRANSFORMATION]
+__________________________________|______________________________________________________________________________
 ```
 
 Each phase produces immutable artifacts and never mutates upstream outputs.
