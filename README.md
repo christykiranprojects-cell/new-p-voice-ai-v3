@@ -74,6 +74,7 @@ Metrics include:
 - Silence ratio
 - Residual DC offset
 - Duration and channel count
+- Demoising
 
 Outputs:
 - `quality_metrics_report.csv`
