@@ -1,0 +1,432 @@
+{
+    "summary": {
+        "hardware": "CPU",
+        "assumed_realtime_factor": 0.4,
+        "total_recordings": 58,
+        "average_latency_sec": 27.845,
+        "min_latency_sec": 17.64,
+        "max_latency_sec": 44.0,
+        "total_latency_sec": 1615.0,
+        "total_latency_hours": 0.449,
+        "total_processing_time_sec_cpu": 4037.5,
+        "total_processing_time_hours_cpu": 1.122
+    },
+    "realtime_factor_matrix": {
+        "definition": "audio_duration_sec / processing_time_sec",
+        "unit": "x realtime",
+        "cpu": {
+            "assumed_factor": 0.4,
+            "total_audio_sec": 1615.0,
+            "total_processing_time_sec": 4037.5,
+            "overall_realtime_factor": 0.4
+        }
+    },
+    "per_audio_latency": [
+        {
+            "audio_number": 1,
+            "file_name": "1.wav",
+            "audio_duration_sec": 26.72,
+            "processing_time_sec_cpu": 66.8,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 2,
+            "file_name": "2.wav",
+            "audio_duration_sec": 27.36,
+            "processing_time_sec_cpu": 68.39999999999999,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 3,
+            "file_name": "3.wav",
+            "audio_duration_sec": 35.0,
+            "processing_time_sec_cpu": 87.5,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 4,
+            "file_name": "4.wav",
+            "audio_duration_sec": 27.0,
+            "processing_time_sec_cpu": 67.5,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 5,
+            "file_name": "5.wav",
+            "audio_duration_sec": 28.16,
+            "processing_time_sec_cpu": 70.39999999999999,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 6,
+            "file_name": "6.wav",
+            "audio_duration_sec": 24.06,
+            "processing_time_sec_cpu": 60.14999999999999,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 7,
+            "file_name": "7.wav",
+            "audio_duration_sec": 29.160000000000004,
+            "processing_time_sec_cpu": 72.9,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 8,
+            "file_name": "8.wav",
+            "audio_duration_sec": 23.16,
+            "processing_time_sec_cpu": 57.9,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 9,
+            "file_name": "9.wav",
+            "audio_duration_sec": 27.44,
+            "processing_time_sec_cpu": 68.6,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 10,
+            "file_name": "10.wav",
+            "audio_duration_sec": 26.8,
+            "processing_time_sec_cpu": 67.0,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 11,
+            "file_name": "11.wav",
+            "audio_duration_sec": 25.2,
+            "processing_time_sec_cpu": 62.99999999999999,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 12,
+            "file_name": "12.wav",
+            "audio_duration_sec": 32.0,
+            "processing_time_sec_cpu": 80.0,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 13,
+            "file_name": "13.wav",
+            "audio_duration_sec": 34.0,
+            "processing_time_sec_cpu": 85.0,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 14,
+            "file_name": "14.wav",
+            "audio_duration_sec": 41.0,
+            "processing_time_sec_cpu": 102.5,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 15,
+            "file_name": "15.wav",
+            "audio_duration_sec": 44.0,
+            "processing_time_sec_cpu": 110.0,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 16,
+            "file_name": "16.wav",
+            "audio_duration_sec": 24.520000000000003,
+            "processing_time_sec_cpu": 61.300000000000004,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 17,
+            "file_name": "17.wav",
+            "audio_duration_sec": 25.36,
+            "processing_time_sec_cpu": 63.4,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 18,
+            "file_name": "18.wav",
+            "audio_duration_sec": 30.0,
+            "processing_time_sec_cpu": 75.0,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 19,
+            "file_name": "19.wav",
+            "audio_duration_sec": 28.16,
+            "processing_time_sec_cpu": 70.39999999999999,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 20,
+            "file_name": "20.wav",
+            "audio_duration_sec": 22.32,
+            "processing_time_sec_cpu": 55.8,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 21,
+            "file_name": "21.wav",
+            "audio_duration_sec": 23.0,
+            "processing_time_sec_cpu": 57.5,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 22,
+            "file_name": "22.wav",
+            "audio_duration_sec": 22.0,
+            "processing_time_sec_cpu": 55.0,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 24,
+            "file_name": "24.wav",
+            "audio_duration_sec": 29.0,
+            "processing_time_sec_cpu": 72.5,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 25,
+            "file_name": "25.wav",
+            "audio_duration_sec": 31.0,
+            "processing_time_sec_cpu": 77.5,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 26,
+            "file_name": "26.wav",
+            "audio_duration_sec": 33.0,
+            "processing_time_sec_cpu": 82.5,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 27,
+            "file_name": "27.wav",
+            "audio_duration_sec": 36.0,
+            "processing_time_sec_cpu": 90.0,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 29,
+            "file_name": "29.wav",
+            "audio_duration_sec": 34.0,
+            "processing_time_sec_cpu": 85.0,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 30,
+            "file_name": "30.wav",
+            "audio_duration_sec": 35.88,
+            "processing_time_sec_cpu": 89.7,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 31,
+            "file_name": "31.wav",
+            "audio_duration_sec": 29.6,
+            "processing_time_sec_cpu": 74.0,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 32,
+            "file_name": "32.wav",
+            "audio_duration_sec": 29.0,
+            "processing_time_sec_cpu": 72.5,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 33,
+            "file_name": "33.wav",
+            "audio_duration_sec": 33.92,
+            "processing_time_sec_cpu": 84.8,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 34,
+            "file_name": "34.wav",
+            "audio_duration_sec": 27.12,
+            "processing_time_sec_cpu": 67.8,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 35,
+            "file_name": "35.wav",
+            "audio_duration_sec": 36.2,
+            "processing_time_sec_cpu": 90.5,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 36,
+            "file_name": "36.wav",
+            "audio_duration_sec": 31.12,
+            "processing_time_sec_cpu": 77.8,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 37,
+            "file_name": "37.wav",
+            "audio_duration_sec": 23.88,
+            "processing_time_sec_cpu": 59.699999999999996,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 38,
+            "file_name": "38.wav",
+            "audio_duration_sec": 24.84,
+            "processing_time_sec_cpu": 62.099999999999994,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 39,
+            "file_name": "39.wav",
+            "audio_duration_sec": 21.0,
+            "processing_time_sec_cpu": 52.5,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 40,
+            "file_name": "40.wav",
+            "audio_duration_sec": 27.28,
+            "processing_time_sec_cpu": 68.2,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 41,
+            "file_name": "41.wav",
+            "audio_duration_sec": 31.62,
+            "processing_time_sec_cpu": 79.05,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 42,
+            "file_name": "42.wav",
+            "audio_duration_sec": 24.2,
+            "processing_time_sec_cpu": 60.49999999999999,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 43,
+            "file_name": "43.wav",
+            "audio_duration_sec": 25.0,
+            "processing_time_sec_cpu": 62.5,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 44,
+            "file_name": "44.wav",
+            "audio_duration_sec": 22.28,
+            "processing_time_sec_cpu": 55.7,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 45,
+            "file_name": "45.wav",
+            "audio_duration_sec": 30.96,
+            "processing_time_sec_cpu": 77.39999999999999,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 46,
+            "file_name": "46.wav",
+            "audio_duration_sec": 24.84,
+            "processing_time_sec_cpu": 62.099999999999994,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 47,
+            "file_name": "47.wav",
+            "audio_duration_sec": 24.12,
+            "processing_time_sec_cpu": 60.3,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 48,
+            "file_name": "48.wav",
+            "audio_duration_sec": 29.8,
+            "processing_time_sec_cpu": 74.5,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 49,
+            "file_name": "49.wav",
+            "audio_duration_sec": 26.6,
+            "processing_time_sec_cpu": 66.5,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 50,
+            "file_name": "50.wav",
+            "audio_duration_sec": 26.24,
+            "processing_time_sec_cpu": 65.6,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 51,
+            "file_name": "51.wav",
+            "audio_duration_sec": 30.64,
+            "processing_time_sec_cpu": 76.6,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 52,
+            "file_name": "52.wav",
+            "audio_duration_sec": 18.52,
+            "processing_time_sec_cpu": 46.3,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 55,
+            "file_name": "55.wav",
+            "audio_duration_sec": 17.64,
+            "processing_time_sec_cpu": 44.1,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 56,
+            "file_name": "56.wav",
+            "audio_duration_sec": 22.72,
+            "processing_time_sec_cpu": 56.8,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 57,
+            "file_name": "57.wav",
+            "audio_duration_sec": 24.28,
+            "processing_time_sec_cpu": 60.7,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 58,
+            "file_name": "58.wav",
+            "audio_duration_sec": 25.08,
+            "processing_time_sec_cpu": 62.699999999999996,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 59,
+            "file_name": "59.wav",
+            "audio_duration_sec": 22.64,
+            "processing_time_sec_cpu": 56.6,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 60,
+            "file_name": "60.wav",
+            "audio_duration_sec": 24.28,
+            "processing_time_sec_cpu": 60.7,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 61,
+            "file_name": "61.wav",
+            "audio_duration_sec": 29.520000000000003,
+            "processing_time_sec_cpu": 73.8,
+            "realtime_factor_cpu": 0.4
+        },
+        {
+            "audio_number": 62,
+            "file_name": "62.wav",
+            "audio_duration_sec": 24.76,
+            "processing_time_sec_cpu": 61.9,
+            "realtime_factor_cpu": 0.4
+        }
+    ]
+}
