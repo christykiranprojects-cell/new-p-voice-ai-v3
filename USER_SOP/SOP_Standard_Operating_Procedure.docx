@@ -1,1 +1,221 @@
+Standard Operating Procedure (SOP)
+Voice-Based Medicine Order Recording System
+________________________________________
+1. Purpose
+This SOP explains how to correctly record medicine orders using the voice-based STT system to ensure accurate transcription, correct quantity capture, and smooth processing.
+This SOP is mandatory for all authorized users.
+________________________________________
+2. Authorized Users
+This system is intended for use only by:
+•	Doctors
+•	Pharmacists
+•	Medical store operators
+•	Trained healthcare staff
+•	Other authorized medicine-knowledgeable personnel
+________________________________________
+3. Audio Recording Environment
+Before starting the recording:
+•	Use a mobile phone or approved recording device
+•	Record in a quiet environment as much as possible
+•	Avoid background noise (TV, traffic, conversations)
+•	Hold the device about 20–30 cm from your mouth
+•	Speak clearly at a normal pace
+________________________________________
+4. Speech Guidelines
+•	Speak clearly and calmly
+•	Use full medicine names
+•	Speak one medicine at a time
+•	Pause briefly (1–2 seconds) between medicines
+•	Do not mix casual conversation with medicine details
+________________________________________
+5. Mandatory Medicine Speaking Order (VERY IMPORTANT)
+Always follow this fixed order while speaking:
+1.	Medicine Name
+2.	Strength / Dosage
+3.	Medicine Type (Tablet, Capsule, Syrup, Injection, etc.)
+4.	Quantity (spoken immediately after medicine type)
+⚠️ The first number spoken after the medicine type is automatically treated as the quantity.
+________________________________________
+6. Strength and Unit Guidelines
+•	You only need to speak the strength value
+•	Do not worry about units such as:
+o	milligram
+o	gram
+o	millilitre
+✔️ The system automatically understands and normalizes units using backend aliases.
+________________________________________
+7. Correct Speaking Examples
+✅ Correct
+•	“Paracetamol five hundred tablet ten”
+•	“Amoxicillin two fifty capsule twenty”
+•	“Cough syrup ten bottle one”
+________________________________________
+8. Incorrect Speaking Examples
+❌ Incorrect
+•	“Paracetamol ten tablets” (wrong order)
+•	“Amoxicillin capsule twenty” (missing strength)
+•	“That fever tablet five”
+•	“Give paracetamol five hundred”
+These formats may lead to incorrect transcription or rejection.
+________________________________________
+9. Quantity Speaking Rules
+•	Do not say the word quantity
+•	Speak the number clearly
+•	Use full numbers:
+o	“ten” instead of “one zero”
+o	“twenty five” instead of “two five”
+•	Do not use vague terms like:
+o	some
+o	few
+o	many
+________________________________________
+10. Recording Multiple Medicines
+When recording more than one medicine:
+•	Complete one medicine fully
+•	Pause for 1–2 seconds
+•	Then speak the next medicine
+✅ Correct
+“Paracetamol five hundred tablet ten …
+Amoxicillin two fifty capsule twenty”
+________________________________________
+11. What NOT to Do During Recording
+•	Do not correct yourself mid-sentence
+•	Do not repeat the same medicine multiple times
+•	Do not use filler words like:
+o	“sorry”
+o	“no wait”
+o	“actually”
+•	If a mistake happens, stop and re-record
+________________________________________
+12. After Recording
+•	Submit the recording after completion
+•	Review the generated output if preview is available
+•	If any medicine or quantity is incorrect:
+o	Re-record the order
+o	Do not attempt verbal corrections in the same audio
+________________________________________
+13. Data Integrity and Audit Compliance
+All recordings and outputs are:
+•	Time-stamped
+•	User-attributed
+•	Stored as original records
+•	Available for audit and review
+Users are responsible for ensuring the spoken order is accurate and intentional.
+________________________________________
+14. User Responsibility
+By using this system, the user confirms that:
+•	The spoken medicine order is correct
+•	The recording follows this SOP
+•	The generated output will be reviewed before use
+________________________________________
+End of SOP
+________________________________________
+If you want, next I can:
+•	Create a 1-page quick-use card (lamination-friendly)
+•	Make a poster version for pharmacy walls
+•	Convert this into a training checklist
+•	Align it to regulatory SOP formatting (version, approval, revision history)
+I mean users need not use milligram and they offen say MG / GM / G 
+Ahh — crystal clear now 👍
+So the rule is:
+•	Users may say: mg / milligram / gram / gm / g
+•	Users may also skip units
+•	Backend alias logic normalizes everything
+•	SOP should reassure users, not restrict them
+Below is the final, user-correct SOP wording, clean and unambiguous.
+________________________________________
+Standard Operating Procedure (SOP)
+Voice-Based Medicine Order Recording System
+________________________________________
+1. Purpose
+This SOP defines how authorized users should record medicine orders using the voice-based STT system to ensure accurate transcription and correct order processing.
+________________________________________
+2. Authorized Users
+This system may be used only by:
+•	Doctors
+•	Pharmacists
+•	Medical store operators
+•	Trained healthcare staff
+•	Authorized medicine-knowledgeable personnel
+________________________________________
+3. Audio Recording Environment
+Before recording:
+•	Use a mobile phone or approved device
+•	Choose a quiet environment when possible
+•	Avoid background noise (TV, traffic, conversations)
+•	Hold the device about 20–30 cm from your mouth
+•	Speak clearly at a normal pace
+________________________________________
+4. Speech Guidelines
+•	Speak naturally and clearly
+•	Use standard medicine names
+•	Speak one medicine at a time
+•	Pause briefly (1–2 seconds) between medicines
+•	Do not mix casual conversation with medicine details
+________________________________________
+5. Mandatory Medicine Speaking Order (VERY IMPORTANT)
+Always follow this order while speaking:
+1.	Medicine Name
+2.	Strength (number with or without unit)
+3.	Medicine Type (Tablet, Capsule, Syrup, Injection, etc.)
+4.	Quantity (spoken immediately after medicine type)
+⚠️ The first number spoken after the medicine type is treated as quantity.
+________________________________________
+6. Strength Unit Usage (User-Friendly Rule)
+You may speak strength in any of the following ways:
+•	With units:
+o	mg / milligram
+o	g / gm / gram
+•	Without units:
+o	Just the number
+✔️ The system automatically understands and normalizes all common unit variations.
+________________________________________
+7. Correct Speaking Examples
+✅ Correct
+•	“Paracetamol five hundred mg tablet ten”
+•	“Paracetamol five hundred tablet ten”
+•	“Amoxicillin two fifty gm capsule twenty”
+•	“Cough syrup ten ml bottle one”
+________________________________________
+8. Incorrect Speaking Examples
+❌ Incorrect
+•	“Paracetamol ten tablets” (wrong order)
+•	“Amoxicillin capsule twenty” (strength missing)
+•	“That fever tablet five”
+________________________________________
+9. Quantity Speaking Rules
+•	Do not say the word quantity
+•	Speak the number clearly
+•	Use full numbers when possible
+•	Avoid vague terms like “few” or “some”
+________________________________________
+10. Recording Multiple Medicines
+•	Complete one medicine fully
+•	Pause for 1–2 seconds
+•	Then speak the next medicine
+________________________________________
+11. What NOT to Do
+•	Do not correct yourself mid-recording
+•	Do not repeat medicines unnecessarily
+•	Do not use filler words (“sorry”, “no wait”)
+•	If a mistake occurs, stop and re-record
+________________________________________
+12. After Recording
+•	Submit the recording
+•	Review the output if shown
+•	Re-record if any medicine or quantity is incorrect
+________________________________________
+13. Data Integrity and Audit
+All recordings are:
+•	Time-stamped
+•	User-attributed
+•	Stored as original records
+•	Available for audit and review
+________________________________________
+14. User Responsibility
+By using this system, users confirm that:
+•	The spoken order is medically correct
+•	The recording follows this SOP
+•	The output will be reviewed before final use
+
 
