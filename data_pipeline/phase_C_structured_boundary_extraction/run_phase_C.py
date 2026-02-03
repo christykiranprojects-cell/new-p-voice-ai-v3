@@ -49,7 +49,7 @@ def extract_numeric_index(file_name: str) -> int:
 # ------------------------------------------------------
 
 def run_phase_C():
-    print("▶ Starting Phase C — Structured Boundary Extraction")
+    print("Starting Phase C — Structured Boundary Extraction")
 
     # --------------------------------------------------
     # Load frozen MEDICINE_TYPE snapshot
@@ -122,7 +122,7 @@ def run_phase_C():
         with open(output_path, "w", encoding="utf-8") as f:
             json.dump(extracted_items, f, indent=2, ensure_ascii=False)
 
-        print(f"✔ Phase C JSON written → {output_path}")
+        print(f"Phase C JSON written → {output_path}")
 
     # --------------------------------------------------
     # Save consolidated CSV (NUMERIC SORT FIX)
@@ -146,9 +146,9 @@ def run_phase_C():
             index=False
         )
 
-        print(f"✔ Consolidated CSV written → {CONSOLIDATED_CSV}")
+        print(f"Consolidated CSV written → {CONSOLIDATED_CSV}")
 
-    print("✔ Phase C finished successfully.")
+    print("Phase C finished successfully.")
 
 
 if __name__ == "__main__":
@@ -158,6 +158,6 @@ if __name__ == "__main__":
 
 
 
-# RUN IN TERMINAL
+# RUNNNER : 
 # python -m data_pipeline.phase_C_structured_boundary_extraction.run_phase_C
 
