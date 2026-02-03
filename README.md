@@ -50,36 +50,9 @@ ________________________________|________________________________________|______
                   MEASUREMENT   |      AUDIO TO RAW TRANSCRIPT           |  STRUCTURED     | TRANSFORMATION|  EVALUATION
 ________________________________|________________________________________|___RAW DATA______|___[PREDICTED]_|___________________
 
-FUTURE WORKS: 
-
-_________________________________________________________**FUTURE WORKS**__________________________|___________________________|___________________
-|                                                                                          |   Phase D     |                   |     Database      |
-|                                                                                          | [Embedding    > > VECTOR DATABASE >  >    Tools   <   <
-|                                                                                          | similarity]   |       ^           |   [MEMORY LAYER]  ^
-|___________^_____>____________>__________>___________>____________>____________>_________>|___>________>__|___>__ ^ __________|_________________  ^
-| DATABASE MANAGEMENT | AWS S3  |  SAVE AUDIO'S PUSHED FROM AWS S3 &     |      JSON       | JSON OR TOON  |      LLM          |                   ^
-|                     | BUCKET  |     SAVE RAW TEXT DATA                 |    [MANGO DB]   | (WILL DECIDE) |  Open source      |[REASONING LAYER]  ^
-|                     |         |           [MANGO DB]                   |                 |               |      Qwen         |                   ^
-|__________________________________________________________________________________________________________________^ __________|__________________ ^
-|                                                      GPU / Cloud Migration                                       ^           |                   ^
-|                                              [REDUCE LATENCY AND READY FOR DEPLOYMENT]                           ^           |                   ^
-|__________________________________________________________________________________________________________________^___________|                   ^
-|                                                LOGS TO BUILD FEEDBACK LOOPS (Binary Tree Structure - PostgreSQL) ^           |                   ^
-|_______________________________________________________________Database MEMORY LAYER________>___________>_________^___________|_>_____>______>____>
-|                                                                Context-Aware Canonical Mapping
-|___________________________________________________________________________↓_______________________________________________________________________
-|_______________________________________________________________OUTPUT_____ ↓________________________________________________________________________
-Key Insight for Future Work (Very Important)
-
-- Logs explain the past.
-- Context explains the present.
-- Rules control the future.
-
-System keeps these separate on purpose.
 ``` 
 
 Each phase produces immutable artifacts and never mutates upstream outputs.
-
 
 ---
 ### **[SYSTEM ENGINEERING AND AGENT CONTROLLER SYSTEM]**
