@@ -71,5 +71,5 @@ if __name__ == "__main__":
     # python -m data_pipeline.phase_D_fuzzy_canonical_mapping.run_phase_D
     run_phase_D()
 
-
+# RUNNER : 
 # python -m data_pipeline.phase_D_fuzzy_canonical_mapping.run_phase_D
