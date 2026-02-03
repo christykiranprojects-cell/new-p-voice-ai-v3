@@ -3,7 +3,7 @@ from data_pipeline.run_phase_B import run_phase_B
 
 
 def main():
-    print("🚀 Starting system")
+    print("Starting system")
 
     # Initialize execution controller agent
     agent = ExecutionControllerAgent()
@@ -33,7 +33,7 @@ def main():
 
     run_phase_B(whisper_model)
 
-    print("✅ System finished cleanly")
+    print("System finished cleanly")
 
 
 if __name__ == "__main__":
