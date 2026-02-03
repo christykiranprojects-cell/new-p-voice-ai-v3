@@ -32,12 +32,12 @@ os.makedirs(OUT_DIR, exist_ok=True)
 
 
 def run_phase_E():
-    print("▶ Phase E — Evaluation (Forced-Alignment)")
+    print("Phase E — Evaluation")
 
     pred_df = load_phase_d_predictions(PHASE_D_PRED_CSV)
     gt_df = load_ground_truth(GROUND_TRUTH_XLSX)
 
-    # 🔒 HARD ALIGNMENT GUARANTEE
+    # HARD ALIGNMENT GUARANTEE
     if len(pred_df) != len(gt_df):
         raise ValueError(
             f"Row count mismatch: pred={len(pred_df)} gt={len(gt_df)}"
@@ -109,7 +109,7 @@ def run_phase_E():
         index=False
     )
 
-    print("✔ Phase E completed successfully")
+    print("Phase E completed successfully")
 
 
 if __name__ == "__main__":
