@@ -75,7 +75,7 @@ class ExecutionControllerAgent:
         # Runtime config (CPU governor, affinity, etc.)
         configure_runtime(self.name, self.state)
 
-        # 🔥 THREAD SCALING HAPPENS HERE 🔥
+        # THREAD SCALING HAPPENS HERE
         if self.state == AgentState.ACT:
             print(f"[DEBUG] Entered ACT state")
             self._configure_cpu_threads_for_act()
