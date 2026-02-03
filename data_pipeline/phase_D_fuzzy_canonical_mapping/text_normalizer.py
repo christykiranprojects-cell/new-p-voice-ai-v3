@@ -31,7 +31,7 @@ def normalize_for_matching(text: str) -> str:
         if t in STOPWORDS or t in NOISE_TOKENS:
             continue
 
-        # 🔒 Preserve short variant tokens
+        # Preserve short variant tokens
         if len(t) <= 2:
             tokens.append(t)
         else:
